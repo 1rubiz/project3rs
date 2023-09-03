@@ -1,8 +1,15 @@
 import React from 'react'
+import Image from '../components/image'
+import img from '../assets/img3.jpg';
 
 function Media() {
   return (
-    <div className='h-[70vh]'>Media</div>
+    <div className='min-h-[70vh] flex flex-col gap-3 justify-center items-center'>
+      <Image image={img}/>
+      <Image image={img}/>
+      <Image image={img}/>
+      <Image image={img}/>
+    </div>
   )
 }
 

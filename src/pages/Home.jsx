@@ -9,7 +9,7 @@ function Home() {
         initial={{ opacity: 0 }}
         animate={{ opacity: 1}}
         transition={{ duration: 1 }}
-      src={img} alt='' className='h-[73vh]'/>
+      src={img} alt='' className='h-[70vh]'/>
       <motion.div
       className='absolute w-[100%] flex flex-col justify-center items-center top-[20vh] text-[#f1f1f5]'>
         <motion.div 

@@ -16,7 +16,7 @@ function Nav() {
     <div className='flex relative w-[100%] '>
        <Link to='/home'> <motion.img 
             src={logo}
-            className='w-[130px] h-[120px] '
+            className='w-[140px] h-[120px] mix-blend-multiply'
             initial={{y: -30}}
             animate={{y: 0}}
             transition={{duration: 1}}
