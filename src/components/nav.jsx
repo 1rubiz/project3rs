@@ -34,7 +34,7 @@ function Nav() {
         <AnimatePresence>
         {
             nav && (
-                <motion.div className='absolute bg-[#99f89f] p-9 top-[9vh] right-0 z-10'
+                <motion.div className='absolute bg-[#dbf7dd] p-9 top-[9vh] right-0 z-10'
                     initial={{x: 100}}
                     animate={{x: 0}}
                     transition={{duration: 1}}
