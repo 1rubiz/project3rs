@@ -12,13 +12,13 @@ function Contact() {
       src={mail}
       width='100%'
       height={100}
-      className='h-100 absolute bottom-0 z-1'
+      className='h-100 absolute bottom-0 top-[32vh] z-1'
       />
       <motion.div
       initial={{opacity: 0, y: -100}}
       animate={{opacity: 1, y: 0}}
       transition={{duration: 4}}
-      className='h-[300px] w-[88%] z-3 absolute ml-[6%] flex justify-center items-center'
+      className='h-[300px] w-[88%] z-3 absolute top-[22vh] ml-[6%] flex justify-center items-center'
       style={{boxShadow: 'rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px'}}
       >
         <div

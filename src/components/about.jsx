@@ -8,7 +8,7 @@ import { motion } from 'framer-motion'
 // bg-[#094D03]
 function About() {
   return (
-    <div className='flex flex-col gap-7'>
+    <div className='mt-24 flex flex-col gap-7'>
         <motion.div
         className='m-5 text-[#094D03] font-semibold  p-3'
         style={{boxShadow: 'rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px'}}

@@ -13,7 +13,7 @@ function Nav() {
     }
 
   return (
-    <div className='flex relative w-[100%] '>
+    <div className='flex fixed top-0 left-0 z-10 bg-white w-[100%] '>
        <Link to='/home'> <motion.img 
             src={logo}
             className='w-[140px] h-[120px] mix-blend-multiply'
@@ -34,43 +34,43 @@ function Nav() {
         <AnimatePresence>
         {
             nav && (
-                <motion.div className='absolute bg-[#dbf7dd] p-9 top-[9vh] right-0 z-10'
-                    initial={{x: 100}}
-                    animate={{x: 0}}
+                <motion.div className='absolute bg-[white] p-9 top-[9vh] right-0 z-10'
+                    initial={{opacity: 0}}
+                    animate={{opacity: 1}}
                     transition={{duration: 1}}
                     exit={{ opacity: 0 }}
                     >
                     <div className='list-none text-[20px] w-[100%] flex flex-col gap-8 font-bold text-[white]'>
                     <Link to='/home'><motion.li className='p-2 bg-[rgb(0,128,0)] rounded-[9px]'
-                            initial={{y: 50}}
-                            animate={{y: 0}}
+                            initial={{x: 30}}
+                            animate={{x: 0}}
                             transition={{duration: 1}}
                             onClick={handleNav}
                         >HOME</motion.li></Link>
                         <Link to='/about'><motion.li className='p-2 bg-[rgb(0,128,0)] rounded-[9px]'
-                            initial={{y: 50}}
-                            animate={{y: 0}}
+                            initial={{x: 30}}
+                            animate={{x: 0}}
                             transition={{duration: 1}}
                             onClick={handleNav}
                         >ABOUT US</motion.li></Link>
                        <Link to='/media'> <motion.li
                             className='p-2 bg-[rgb(0,128,0)] rounded-[9px]'
-                            initial={{y: 50}}
-                            animate={{y: 0}}
+                            initial={{x: 30}}
+                            animate={{x: 0}}
                             transition={{duration: 1}}
                             onClick={handleNav}
                         >MEDIA</motion.li></Link>
                         <Link to='/donation'><motion.li
                             className='p-2 bg-[rgb(0,128,0)] rounded-[9px]'
-                            initial={{y: 50}}
-                            animate={{y: 0}}
+                            initial={{x: 30}}
+                            animate={{x: 0}}
                             transition={{duration: 1}}
                             onClick={handleNav}
                         >DONATIONS</motion.li></Link>
                         <Link to='/contact'><motion.li
                             className='p-2 bg-[rgb(0,128,0)] rounded-[9px]'
-                            initial={{y: 50}}
-                            animate={{y: 0}}
+                            initial={{x: 30}}
+                            animate={{x: 0}}
                             transition={{duration: 1}}
                             onClick={handleNav}
                         >CONTACT US</motion.li></Link>
