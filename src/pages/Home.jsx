@@ -11,7 +11,7 @@ function Home() {
         transition={{ duration: 1 }}
       src={img} alt='' className='h-screen'/>
       <motion.div
-      className='absolute w-[100%] flex flex-col justify-center items-center top-[45vh] text-[#f1f1f5]'>
+      className='absolute w-[100%] flex flex-col justify-center items-center top-[40vh] text-[#f1f1f5]'>
         <motion.div 
           initial={{ opacity: 0, x: -100 }}
           animate={{ opacity: 1, x: 0 }}
