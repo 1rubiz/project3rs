@@ -23,7 +23,7 @@ function Home() {
           transition={{ duration: 0.8 }}
         className='flex gap-4 font-bold text-[18px]'><li>REDUCE </li><li>REUSE</li> <li>RECYCLE</li></motion.div>
       </motion.div>
-      <Link to='/about'><motion.li className='absolute flex justify-center items-center bottom-7 list-none p-3 text-[23px] text-[white] w-[40%] left-[30%] bg-[rgb(0,128,0)] rounded-[9px]'
+      <Link to='/about'><motion.li className='absolute flex justify-center items-center bottom-[9vh] list-none p-3 text-[23px] text-[white] w-[40%] left-[30%] bg-[rgb(0,128,0)] rounded-[9px]'
         initial={{opacity: 0}}
         animate={{opacity: 1}}
         transition={{duration: 1}}
