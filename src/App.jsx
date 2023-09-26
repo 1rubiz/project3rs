@@ -22,13 +22,6 @@ function App() {
         <Route path='/media' element={<Media/>}/>
         <Route path='/about' element={<About/>}/>
       </Routes>
-    {/* <Loading/> */}
-    {/* <Nav/> */}
-    {/* <About/> */}
-      {/* <p className='mt-[30%] bg-[#32a852]'>
-        
-        Click on the Vite and React logos to learn more
-      </p> */}
       <Footer/>
     </div>
     </BrowserRouter>

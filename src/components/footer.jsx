@@ -1,6 +1,5 @@
 import React, {useState} from 'react'
-import { FaFacebook, FaAngleDown, FaInstagram, FaTwitter, FaWhatsapp, FaLinkedin, FaShare } from 'react-icons/fa'
-import img from '../assets/share.svg';
+import { FaFacebook, FaGlobe, FaAngleDown, FaInstagram, FaTwitter, FaWhatsapp, FaLinkedin, FaShare } from 'react-icons/fa'
 import { motion } from 'framer-motion';
 
 function Footer() {
@@ -16,7 +15,7 @@ function Footer() {
     animate={{rotate: 360}}
     transition={{duration: 5}}
     onClick={handleDisplay}
-    className='pt-2 hover:border-2 hover:border-[green] rounded-full flex justify-center items-center w-[9vh]'>
+    className=' hover:border-2 hover:border-[green] rounded-full flex justify-center items-center w-[9vh]'>
       <FaAngleDown className='text-[5vh]'/>
     </motion.div>
   ) : (
@@ -25,14 +24,8 @@ function Footer() {
     animate={{rotate: 360}}
     transition={{duration: 5}}
     onClick={handleDisplay}
-    className='pt-2 hover:border-2 hover:border-[green] rounded-full flex justify-center items-center w-[9vh]'>
-      <img 
-        src={img}
-        alt='social share icon'
-        width={50}
-        height={50}
-        className='rounded-[15px] h-[9vh] w-[9vh] text-[white]'
-    />
+    className='hover:border-2 hover:border-[green] rounded-full flex justify-center items-center'>
+    <FaGlobe className='text-[5vh]'/>
     </motion.div>)
   return (
     <>
@@ -41,7 +34,7 @@ function Footer() {
           animate={{opacity: 1}}
           transition={{duration: 1}}
           exit={{ opacity: 0 }}
-          className='fixed bg-white rounded-full bottom-20 left-1 gap-3 flex flex-col justify-evenly items-center p-3 '>
+          className='fixed bg-white rounded-full bottom-20 right-3 gap-3 flex flex-col justify-evenly items-center p-3 '>
       
       {
         display && (
