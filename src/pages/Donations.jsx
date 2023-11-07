@@ -29,26 +29,26 @@ function Donations() {
       phone,
     },
     publicKey,
-    text: "Pay Now",
+    text: "Donate",
     onSuccess: () =>
       success(),
     onClose: () => alert("Wait! Don't leave :("),
   }
   
   return (
-    <div className='h-[70vh] relative '>
+    <div className='h-screen'>
       <motion.img 
         initial={{ opacity: 0 }}
         animate={{ opacity: 1}}
         transition={{ duration: 1 }}
       src={donate} 
       alt='' 
-      className='h-screen w-[100%]'/>
+      className='h-screen w-[100%] lg:absolute top-0 right-0 lg:w-[47%]'/>
       <motion.div
       initial={{opacity: 0, y: -100}}
       animate={{opacity: 1, y: 0}}
       transition={{duration: 4}}
-      className='h-[300px] top-[25vh] w-[88%] z-3 absolute ml-[6%] flex justify-center items-center'
+      className='h-[300px] top-[25vh] w-[88%] z-3 absolute ml-[6%] flex justify-center items-center lg:left-0 lg:w-[40%]'
       style={{boxShadow: 'rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px'}}
       >
         <div

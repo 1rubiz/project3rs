@@ -13,10 +13,11 @@ function Nav() {
     }
 
   return (
-    <div className='flex fixed top-0 left-0 z-10 bg-white w-[100%] '>
+    <>
+    <div className='flex fixed top-0 left-0 z-10 w-[100%] md:hidden'>
        <Link to='/home'> <motion.img 
             src={logo}
-            className='w-[140px] h-[120px] mix-blend-multiply'
+            className='w-[8vh] h-[8vh] mt-9 ml-6 mix-blend-multiply'
             initial={{y: -30}}
             animate={{y: 0}}
             transition={{duration: 1}}
@@ -26,9 +27,9 @@ function Nav() {
             // initial={{y: 0}}
         >
         {nav ? (
-            <IoCloseOutline size={35} onClick={handleNav}/>
+            <IoCloseOutline className='h-[6vh] w-[4.7vh] text-[lime]' onClick={handleNav}/>
         ) : (
-            <FaBars size={30} onClick={handleNav}/>
+            <FaBars className='h-[6vh] w-[3vh] text-[lime]' onClick={handleNav}/>
         )}
         </motion.div>
         <AnimatePresence>
@@ -80,6 +81,61 @@ function Nav() {
         }
         </AnimatePresence>
     </div>
+    <nav className="fixed top-0 left-0 z-10 transparent hidden md:block">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="flex items-center justify-between h-16">
+            <div className="flex items-center">
+              <div className="flex-shrink-0">
+                <img
+                  className="h-[12vh] w-[13vh] md:mt-[5vh] lg:mt-12"
+                  src={logo}
+                  alt="Workflow"
+                />
+              </div>
+              <div className="hidden md:block">
+                <div className="ml-10 mt-[8%] flex items-baseline space-x-4">
+                  <a
+                    href="/home"
+                    className=" hover:bg-gray-700 text-white px-3 py-2 rounded-md text-sm font-medium"
+                  >
+                    HOME
+                  </a>
+
+                  <a
+                    href="/about"
+                    className="text-white hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
+                  >
+                    ABOUT US
+                  </a>
+
+                  <a
+                    href="/media"
+                    className="text-white hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
+                  >
+                    MEDIA
+                  </a>
+
+                  <a
+                    href="/donation"
+                    className="text-white hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
+                  >
+                    DONATIONS
+                  </a>
+
+                  <a
+                    href="/contact"
+                    className="text-white hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
+                  >
+                    CONTACT US
+                  </a>
+                </div>
+              </div>
+            </div>
+            
+          </div>
+        </div>
+      </nav>
+      </>
   )
 }
 
