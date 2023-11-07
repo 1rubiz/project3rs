@@ -3,18 +3,24 @@ import mail from '../assets/mail.png';
 import { motion } from 'framer-motion';
 import { FaPaperPlane } from 'react-icons/fa'
 import img from '../assets/img.jpg'
+import logo from '/logo.jpg'
 
 function Contact() {
   return (
     <div className='h-screen'>
-    <img src={img} className='absolute top-0 right-0 h-screen w-[48%]'/>
+      <div className='hidden lg:block absolute top-0 right-0 h-screen w-[48%]'>
+            <div className='w-[100%] h-[100%] relative flex justify-center items-center'>
+              <img src={img} className='hidden lg:block opacity-50 absolute top-0 right-0 h-screen w-[100%] z-0'/>
+              <img src={logo} className='w-[48%] opacity-90'/>
+            </div>
+      </div>
       <motion.img
       // initial={{opacity: 0}}
       // animate={{opacity: 1}}
       src={mail}
       width='100%'
       height={100}
-      className='h-100 absolute bottom-0 top-[32vh] z-1 lg:w-[50%] lg:h-[68vh]'
+      className='h-100 absolute md:left-[5%] top-[32vh] md:top-[19vh] lg:top-[32vh] rounded-md z-1 md:w-[90%] lg:w-[45%] lg:left-[3%] lg:h-[68vh]'
       />
       <motion.div
       initial={{opacity: 0, y: -100}}
