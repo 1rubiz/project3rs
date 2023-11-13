@@ -1,0 +1,749 @@
+{
+    "id": 1,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "According to the passage, drug abuse is ...",
+    "options": [
+      { "text": "the non-medical use of drugs", "explanation": "" },
+      { "text": "a serious mental problem", "explanation": "" },
+      { "text": "what causes changes in the body", "explanation": "" },
+      { "text": "the medical use of drugs", "explanation": "" }
+    ]
+  },
+  {
+    "id": 2,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "Medicines are drugs that ...",
+    "options": [
+      { "text": "alter moods", "explanation": "" },
+      { "text": "harm babies", "explanation": "" },
+      { "text": "are used for treatment", "explanation": "" },
+      { "text": "are used excessively", "explanation": "" }
+    ]
+  },
+  {
+    "id": 3,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "Drugs permitted by the law are ... drug",
+    "options": [
+      { "text": "medical", "explanation": "" },
+      { "text": "non-medical", "explanation": "" },
+      { "text": "licit", "explanation": "" },
+      { "text": "illicit", "explanation": "" }
+    ]
+  },
+  {
+    "id": 4,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "Drug abuse is a serious problem because it affects",
+    "options": [
+      { "text": "almost every community", "explanation": "" },
+      { "text": "every American family online", "explanation": "" },
+      { "text": "almost every community and family", "explanation": "" },
+      { "text": "every family in Nigeria", "explanation": "" }
+    ]
+  },
+  {
+    "id": 5,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "From the passage, it is best to ...",
+    "options": [
+      { "text": "Prevent drug abuse rather than treat it", "explanation": "" },
+      { "text": "Treat drug abuse than prevent it", "explanation": "" },
+      { "text": "Use illicit drugs without prescription", "explanation": "" },
+      { "text": "Take illicit drugs indiscriminately", "explanation": "" }
+    ]
+  }
+
+
+
+
+[
+  {
+    "id": 6,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "Paragraph one ...",
+    "options": [
+      { "text": "states the advantages of 'gender'", "explanation": "" },
+      { "text": "explains 'gender' roles", "explanation": "" },
+      { "text": "explains what 'gender' is", "explanation": "" },
+      { "text": "states the effects of 'gender'", "explanation": "" }
+    ]
+  },
+  {
+    "id": 7,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "The topic sentence of the second paragraph is ...",
+    "options": [
+      { "text": "Gender identity is formed through socialization", "explanation": "" },
+      { "text": "Gender identity is formed through socialization and not biology", "explanation": "ISSUE: Incomplete answers" }
+    ]
+  },
+  {
+    "id": 8,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "From the passage, it can be inferred that ...",
+    "options": [
+      { "text": "One learns to be male or female", "explanation": "" },
+      { "text": "Gender role is the condition of being male", "explanation": "" },
+      { "text": "One learns how to be masculine or feminine", "explanation": "" },
+      { "text": "Gender roles affect careers only", "explanation": "" }
+    ]
+  },
+  {
+    "id": 9,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "According to the passage, gender roles ...",
+    "options": [
+      { "text": "change", "explanation": "" },
+      { "text": "reflect", "explanation": "" },
+      { "text": "identity", "explanation": "" },
+      { "text": "fulfill", "explanation": "" }
+    ]
+  },
+  {
+    "id": 10,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "... does not influence gender roles.",
+    "options": [
+      { "text": "Religion", "explanation": "" },
+      { "text": "Politics", "explanation": "" },
+      { "text": "Biology", "explanation": "" },
+      { "text": "Education", "explanation": "" }
+    ]
+  }
+]
+
+
+
+
+
+
+[
+  {
+    "id": 16,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "Our teacher ... us for this examination.",
+    "options": [
+      { "text": "prepare", "explanation": "" },
+      { "text": "preparing", "explanation": "" },
+      { "text": "is prepare", "explanation": "" },
+      { "text": "has prepared", "explanation": "" }
+    ]
+  },
+  {
+    "id": 17,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "The boy ... to the market.",
+    "options": [
+      { "text": "gone", "explanation": "" },
+      { "text": "goes", "explanation": "" },
+      { "text": "going", "explanation": "" },
+      { "text": "go", "explanation": "" }
+    ]
+  },
+  {
+    "id": 18,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "Neither of the girls ... present last night.",
+    "options": [
+      { "text": "is", "explanation": "" },
+      { "text": "are", "explanation": "" },
+      { "text": "were", "explanation": "" },
+      { "text": "was", "explanation": "" }
+    ]
+  },
+  {
+    "id": 19,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "We shall be ... to London next month.",
+    "options": [
+      { "text": "travelled", "explanation": "" },
+      { "text": "travelling", "explanation": "" },
+      { "text": "travels", "explanation": "" },
+      { "text": "traveller", "explanation": "" }
+    ]
+  },
+  {
+    "id": 20,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "By the time I left him, he ... so many letters.",
+    "options": [
+      { "text": "had written", "explanation": "" },
+      { "text": "has written", "explanation": "" },
+      { "text": "have written", "explanation": "" },
+      { "text": "is writing", "explanation": "" }
+    ]
+  },
+  {
+    "id": 21,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "To ... do you wish to speak?",
+    "options": [
+      { "text": "which", "explanation": "" },
+      { "text": "who", "explanation": "" },
+      { "text": "whose", "explanation": "" },
+      { "text": "whom", "explanation": "" }
+    ]
+  },
+  {
+    "id": 22,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "John and ... are friends.",
+    "options": [
+      { "text": "me", "explanation": "" },
+      { "text": "we", "explanation": "" },
+      { "text": "I", "explanation": "" },
+      { "text": "us", "explanation": "" }
+    ]
+  },
+  {
+    "id": 23,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "The car belongs to Mrs. Smith. It is ...",
+    "options": [
+      { "text": "hers", "explanation": "" },
+      { "text": "her's", "explanation": "" },
+      { "text": "hers'", "explanation": "" },
+      { "text": "her", "explanation": "" }
+    ]
+  },
+  {
+    "id": 24,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "The water is free ... germs.",
+    "options": [
+      { "text": "against", "explanation": "" },
+      { "text": "from", "explanation": "" },
+      { "text": "with", "explanation": "" },
+      { "text": "of", "explanation": "" }
+    ]
+  },
+  {
+    "id": 25,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "Bisola wanted to show ... with her necklace.",
+    "options": [
+      { "text": "of", "explanation": "" },
+      { "text": "on", "explanation": "" },
+      { "text": "back", "explanation": "" },
+      { "text": "off", "explanation": "" }
+    ]
+  },
+  {
+    "id": 26,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "This is ... than that.",
+    "options": [
+      { "text": "heavier", "explanation": "" },
+      { "text": "more heavy", "explanation": "" },
+      { "text": "most heavy", "explanation": "" },
+      { "text": "heaviest", "explanation": "" }
+    ]
+  },
+  {
+    "id": 27,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "Of the three girls, Tola is the ...",
+    "options": [
+      { "text": "beautiful", "explanation": "" },
+      { "text": "most beautiful", "explanation": "" },
+      { "text": "beautifullest", "explanation": "" },
+      { "text": "more beautiful", "explanation": "" }
+    ]
+  },
+  {
+    "id": 28,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "These boxes are bigger ... over these.",
+    "options": [
+      { "text": "this", "explanation": "" },
+      { "text": "them", "explanation": "" },
+      { "text": "those", "explanation": "" },
+      { "text": "these", "explanation": "" }
+    ]
+  },
+  {
+    "id": 29,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "The student listened ... to their teacher.",
+    "options": [
+      { "text": "quickly", "explanation": "" },
+      { "text": "silently", "explanation": "" },
+      { "text": "patiently", "explanation": "" },
+      { "text": "attentively", "explanation": "" }
+    ]
+  },
+  {
+    "id": 30,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "The latecomer sneaked ... into the class.",
+    "options": [
+      { "text": "quietly", "explanation": "" },
+      { "text": "noisily", "explanation": "" },
+      { "text": "carelessly", "explanation": "" },
+      { "text": "happily", "explanation": "" }
+    ]
+  }
+]
+
+
+
+
+[
+  {
+    "id": 31,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "The students listened to an interesting story.",
+    "options": [
+      { "text": "captivating", "explanation": "" },
+      { "text": "horrible", "explanation": "" },
+      { "text": "boring", "explanation": "" },
+      { "text": "frightening", "explanation": "" }
+    ]
+  },
+  {
+    "id": 32,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "Mr. Dare is arrogant even to the junior staff.",
+    "options": [
+      { "text": "pompous", "explanation": "" },
+      { "text": "proud", "explanation": "" },
+      { "text": "modest", "explanation": "" },
+      { "text": "humble", "explanation": "" }
+    ]
+  },
+  {
+    "id": 33,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "The new school structure is situated at its temporary site.",
+    "options": [
+      { "text": "new", "explanation": "" },
+      { "text": "permanent", "explanation": "" },
+      { "text": "old", "explanation": "" },
+      { "text": "provisional", "explanation": "" }
+    ]
+  },
+  {
+    "id": 34,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "My father purchased a new car.",
+    "options": [
+      { "text": "sold", "explanation": "" },
+      { "text": "bought", "explanation": "" },
+      { "text": "won", "explanation": "" },
+      { "text": "got", "explanation": "" }
+    ]
+  },
+  {
+    "id": 35,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "Bees are noted for breeding in enormous numbers.",
+    "options": [
+      { "text": "very much", "explanation": "" },
+      { "text": "very small", "explanation": "" },
+      { "text": "very many", "explanation": "" },
+      { "text": "very large", "explanation": "" }
+    ]
+  },
+  {
+    "id": 36,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "It takes a great deal of stamina to wrestle.",
+    "options": [
+      { "text": "courage", "explanation": "" },
+      { "text": "determination", "explanation": "" },
+      { "text": "energy", "explanation": "" },
+      { "text": "cleverness", "explanation": "" }
+    ]
+  },
+  {
+    "id": 37,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "We conversed till ten o'clock.",
+    "options": [
+      { "text": "spoke", "explanation": "" },
+      { "text": "talked", "explanation": "" },
+      { "text": "play", "explanation": "" },
+      { "text": "gist", "explanation": "" }
+    ]
+  },
+  {
+    "id": 38,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "He hid the book under the carpet.",
+    "options": [
+      { "text": "behind", "explanation": "" },
+      { "text": "beside", "explanation": "" },
+      { "text": "between", "explanation": "" },
+      { "text": "beneath", "explanation": "" }
+    ]
+  },
+  {
+    "id": 39,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "The company is giving a rebate to the first one hundred customers.",
+    "options": [
+      { "text": "discount", "explanation": "" },
+      { "text": "reward", "explanation": "" },
+      { "text": "gain", "explanation": "" },
+      { "text": "profit", "explanation": "" }
+    ]
+  },
+  {
+    "id": 40,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "The New Yam Festival is an annual event.",
+    "options": [
+      { "text": "monthly", "explanation": "" },
+      { "text": "biennial", "explanation": "" },
+      { "text": "yearly", "explanation": "" },
+      { "text": "quarterly", "explanation": "" }
+    ]
+  }
+]
+
+
+
+
+
+
+
+[
+  {
+    "id": 41,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "The man keeps his friend at arm's length after the argument.",
+    "options": [
+      { "text": "fight with his friend", "explanation": "" },
+      { "text": "avoid contact with his friend", "explanation": "" },
+      { "text": "keep his friend by his arm", "explanation": "" },
+      { "text": "make up with his friend", "explanation": "" }
+    ]
+  },
+  {
+    "id": 42,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "We got to the scene in the nick of time.",
+    "options": [
+      { "text": "at the very right time", "explanation": "" },
+      { "text": "when the time was far spent", "explanation": "" },
+      { "text": "at the wrong time", "explanation": "" },
+      { "text": "before the time", "explanation": "" }
+    ]
+  },
+  {
+    "id": 43,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "Kunle said that he would not go back on his words. This means that Kunle would not ...",
+    "options": [
+      { "text": "Return to a place", "explanation": "" },
+      { "text": "Repeat his words", "explanation": "" },
+      { "text": "Fail to keep his promise", "explanation": "" },
+      { "text": "Read certain words twice", "explanation": "" }
+    ]
+  },
+  {
+    "id": 44,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "The old woman took the youth down the memory lane. This means that the old woman ...",
+    "options": [
+      { "text": "told a tale about memory lane", "explanation": "" },
+      { "text": "recalled events from the past", "explanation": "" },
+      { "text": "gave the youth a piece of advice", "explanation": "" },
+      { "text": "took the youth on a journey to memory lane", "explanation": "" }
+    ]
+  },
+  {
+    "id": 45,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "The two friends are always at loggerheads. This means that the two friends always ...",
+    "options": [
+      { "text": "strongly disagree", "explanation": "" },
+      { "text": "knock heads together", "explanation": "" },
+      { "text": "strongly agree", "explanation": "" },
+      { "text": "eat together", "explanation": "" }
+    ]
+  },
+  {
+    "id": 46,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "Fool",
+    "options": [
+      { "text": "pull", "explanation": "" },
+      { "text": "wool", "explanation": "" },
+      { "text": "pool", "explanation": "" },
+      { "text": "cord", "explanation": "" }
+    ]
+  },
+  {
+    "id": 47,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "Cat",
+    "options": [
+      { "text": "bag", "explanation": "" },
+      { "text": "class", "explanation": "" },
+      { "text": "cart", "explanation": "" },
+      { "text": "bus", "explanation": "" }
+    ]
+  },
+  {
+    "id": 48,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "Knock",
+    "options": [
+      { "text": "knight", "explanation": "" },
+      { "text": "achieve", "explanation": "" },
+      { "text": "kneel", "explanation": "" },
+      { "text": "archive", "explanation": "" }
+    ]
+  },
+  {
+    "id": 49,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "Laugh",
+    "options": [
+      { "text": "vase", "explanation": "" },
+      { "text": "ghost", "explanation": "" },
+      { "text": "alphabet", "explanation": "" },
+      { "text": "vowel", "explanation": "" }
+    ]
+  },
+  {
+    "id": 50,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "Strain",
+    "options": [
+      { "text": "spain", "explanation": "" },
+      { "text": "sprout", "explanation": "" },
+      { "text": "stout", "explanation": "" },
+      { "text": "sprain", "explanation": "" }
+    ]
+  },
+  {
+    "id": 51,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "Father",
+    "options": [
+      { "text": "further", "explanation": "" },
+      { "text": "either", "explanation": "" },
+      { "text": "rather", "explanation": "" },
+      { "text": "whether", "explanation": "" }
+    ]
+  },
+  {
+    "id": 52,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "Airtight",
+    "options": [
+      { "text": "rise", "explanation": "" },
+      { "text": "tight", "explanation": "" },
+      { "text": "bite", "explanation": "" },
+      { "text": "write", "explanation": "" }
+    ]
+  },
+  {
+    "id": 53,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "The central idea of a literary work of art is the ...",
+    "options": [
+      { "text": "plot", "explanation": "" },
+      { "text": "theme", "explanation": "" },
+      { "text": "structure", "explanation": "" },
+      { "text": "tone", "explanation": "" }
+    ]
+  },
+  {
+    "id": 54,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "A poetic device which exaggerates a situation or object is called ...",
+    "options": [
+      { "text": "hyperbole", "explanation": "" },
+      { "text": "epigram", "explanation": "" },
+      { "text": "climax", "explanation": "" },
+      { "text": "tone", "explanation": "" }
+    ]
+  },
+  {
+    "id": 55,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "\"You are the salt of my life\" is an example of ...",
+    "options": [
+      { "text": "personification", "explanation": "" },
+      { "text": "irony", "explanation": "" },
+      { "text": "metaphor", "explanation": "" },
+      { "text": "simile", "explanation": "" }
+    ]
+  },
+  {
+    "id": 56,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "In a prose, the arrangement of events in sequence is known as ...",
+    "options": [
+      { "text": "style", "explanation": "" },
+      { "text": "setting", "explanation": "" },
+      { "text": "theme", "explanation": "" },
+      { "text": "plot", "explanation": "" }
+    ]
+  },
+  {
+    "id": 57,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "The place and period of events in a novel is ...",
+    "options": [
+      { "text": "plot", "explanation": "" },
+      { "text": "setting", "explanation": "" },
+      { "text": "landscape", "explanation": "" },
+      { "text": "atmosphere", "explanation": "" }
+    ]
+  },
+  {
+    "id": 58,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "A story that teaches morals and in which animals behave like human beings is a/an ...",
+    "options": [
+      { "text": "fable", "explanation": "" },
+      { "text": "parable", "explanation": "" },
+      { "text": "anecdote", "explanation": "" },
+      { "text": "sermon", "explanation": "" }
+    ]
+  }
+]
+
+
+
+
+
+[
+  {
+    "id": 59,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "The poem encourages ...",
+    "options": [
+      { "text": "corruption", "explanation": "" },
+      { "text": "bribery", "explanation": "" },
+      { "text": "tribalism", "explanation": "" },
+      { "text": "patriotism", "explanation": "" }
+    ]
+  },
+  {
+    "id": 60,
+    "instruction": "",
+    "Comprehension": "",
+    "img": {},
+    "question": "The rhyming scheme is ...",
+    "options": [
+      { "text": "a b b b c", "explanation": "" },
+      { "text": "a b c d e", "explanation": "" },
+      { "text": "a b b c c", "explanation": "" },
+      { "text": "a a a a b", "explanation": "" }
+    ]
+  }
+]

@@ -1,0 +1,610 @@
+{
+  "id": 1,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "Write 20/8 in a mixed fraction.",
+  "options": [
+    { "text": "2 ¾", "explanation": "" },
+    { "text": "2 ½", "explanation": "" },
+    { "text": "2 ¼", "explanation": "" },
+    { "text": "2 1/8", "explanation": "" }
+  ]
+}
+
+{
+  "id": 2,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "Calculate the perimeter of a triangle in (cm) whose dimensions are 1m 60cm, 1m 80cm, and 2m.",
+  "options": [
+    { "text": "460cm", "explanation": "" },
+    { "text": "540cm", "explanation": "" },
+    { "text": "576cm", "explanation": "" },
+    { "text": "660cm", "explanation": "" }
+  ]
+}
+
+{
+  "id": 3,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "The point of intersection of x and y axes in a graph are called a/an…",
+  "options": [
+    { "text": "Cartesian", "explanation": "" },
+    { "text": "coordinate", "explanation": "" },
+    { "text": "origin", "explanation": "" },
+    { "text": "plane", "explanation": "" }
+  ]
+}
+
+{
+  "id": 4,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "In a toss of a fair die, the probability of getting a five is",
+  "options": [
+    { "text": "1/2", "explanation": "" },
+    { "text": "1/6", "explanation": "" },
+    { "text": "1/5", "explanation": "" },
+    { "text": "5/6", "explanation": "" }
+  ]
+}
+
+{
+  "id": 5,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "Simplify: -8-(-12) (-2)",
+  "options": [
+    { "text": "-22", "explanation": "" },
+    { "text": "+22", "explanation": "" },
+    { "text": "-2", "explanation": "" },
+    { "text": "+2", "explanation": "" }
+  ]
+}
+
+{
+  "id": 6,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "Write the sum of MC and CD in Hindu-Arabic.",
+  "options": [
+    { "text": "1100", "explanation": "" },
+    { "text": "1300", "explanation": "" },
+    { "text": "1500", "explanation": "" },
+    { "text": "1701", "explanation": "" }
+  ]
+}
+
+{
+  "id": 7,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "Solve the simultaneous equations of X +y=d and x-y=2.",
+  "options": []
+}
+
+{
+  "id": 8,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "Factories: 3xy + 6yz",
+  "options": [
+    { "text": "9xyz", "explanation": "" },
+    { "text": "36xyz", "explanation": "" },
+    { "text": "3y (xy + 2z)", "explanation": "" },
+    { "text": "3y(x+2z)", "explanation": "" }
+  ]
+}
+
+{
+  "id": 9,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "Find the area of a parallelogram with base 8cm and vertical height 5cm.",
+  "options": [
+    { "text": "80cm2", "explanation": "" },
+    { "text": "40cm2", "explanation": "" },
+    { "text": "26cm2", "explanation": "" },
+    { "text": "123cm2", "explanation": "" }
+  ]
+}
+
+{
+  "id": 10,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "A tennis ball is a typical example of…",
+  "options": [
+    { "text": "circle", "explanation": "" },
+    { "text": "cone", "explanation": "" },
+    { "text": "hemisphere", "explanation": "" },
+    { "text": "sphere", "explanation": "" }
+  ]
+}
+
+{
+  "id": 11,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "If F is the number of faces, E is the number of edges, and V is the number of vertices, calculate V- E + F for a hexagonal prism.",
+  "options": [
+    { "text": "2", "explanation": "" },
+    { "text": "4", "explanation": "" },
+    { "text": "6", "explanation": "" },
+    { "text": "8", "explanation": "" }
+  ]
+}
+
+{
+  "id": 12,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "… has an infinite number of lines of symmetry.",
+  "options": [
+    { "text": "circle", "explanation": "" },
+    { "text": "rectangle", "explanation": "" },
+    { "text": "square", "explanation": "" },
+    { "text": "equilateral triangle", "explanation": "" }
+  ]
+}
+
+{
+  "id": 13,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "Find One median of the following decimal numbers: 0.1, 0.2, 0.3, 0.4, 0.6, 0.7, and 0.8",
+  "options": [
+    { "text": "0.2", "explanation": "" },
+    { "text": "0.3", "explanation": "" },
+    { "text": "0.4", "explanation": "" },
+    { "text": "0.6", "explanation": "" }
+  ]
+}
+
+{
+  "id": 14,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "The table shows 1, 2, 3, 4, 5 as the prices and numbers of commodities bought. Determine x + y",
+  "options": [
+    { "text": "15", "explanation": "" },
+    { "text": "25", "explanation": "" },
+    { "text": "50", "explanation": "" }
+  ]
+}
+
+
+{
+  "id": 15,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "Express 100111two in base ten.",
+  "options": [
+    { "text": "32ten", "explanation": "" },
+    { "text": "36 ten", "explanation": "" },
+    { "text": "38 ten", "explanation": "" },
+    { "text": "39 ten", "explanation": "" }
+  ]
+}
+
+{
+  "id": 16,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "Simplify: 3 1/8 + 1 ¼ - 2 2/3",
+  "options": [
+    { "text": "2 3/8", "explanation": "" },
+    { "text": "2 ¼", "explanation": "" },
+    { "text": "13/4", "explanation": "" },
+    { "text": "1 ¼", "explanation": "" }
+  ]
+}
+
+{
+  "id": 17,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "A prime has only two factors which are...",
+  "options": [
+    { "text": "1 and any other number", "explanation": "" },
+    { "text": "2 and 3", "explanation": "" },
+    { "text": "1 and 2", "explanation": "" },
+    { "text": "itself and 1", "explanation": "" }
+  ]
+}
+
+{
+  "id": 18,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "A man is x years old and his son is y years old. What is their average age?",
+  "options": [
+    { "text": "(x + y)/2 years", "explanation": "" },
+    { "text": "(x/2 + y/2) years", "explanation": "" }
+  ]
+}
+
+{
+  "id": 19,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "If the sum of even and prime numbers gives an even number, what is the actual value of the prime numbers?",
+  "options": [
+    { "text": "7", "explanation": "" },
+    { "text": "5", "explanation": "" },
+    { "text": "3", "explanation": "" },
+    { "text": "1", "explanation": "" }
+  ]
+}
+
+{
+  "id": 20,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "… divides a circle into equal parts.",
+  "options": [
+    { "text": "Arc", "explanation": "" },
+    { "text": "Chord", "explanation": "" },
+    { "text": "Diameter", "explanation": "" },
+    { "text": "Radius", "explanation": "" }
+  ]
+}
+
+{
+  "id": 21,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "Simplify: t - [t - (1 + t)]",
+  "options": [
+    { "text": "1 + t", "explanation": "" },
+    { "text": "t -", "explanation": "" },
+    { "text": "1 - t", "explanation": "" },
+    { "text": "t", "explanation": "" }
+  ]
+}
+
+{
+  "id": 22,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "Calculate the volume of a cube of length 8m.",
+  "options": [
+    { "text": "512cm3", "explanation": "" },
+    { "text": "1/253", "explanation": "" },
+    { "text": "800cm3", "explanation": "" }
+  ]
+}
+
+{
+  "id": 23,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "Find the reciprocal of 1/5.",
+  "options": [
+    { "text": "-5", "explanation": "" },
+    { "text": "0.2", "explanation": "" },
+    { "text": "1/25", "explanation": "" },
+    { "text": "5", "explanation": "" }
+  ]
+}
+
+{
+  "id": 24,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "A trader made a profit of 35% on an article he sold for N5000.00. How much did he sell the article for?",
+  "options": [
+    { "text": "N1750.00", "explanation": "" },
+    { "text": "N3250.00", "explanation": "" },
+    { "text": "N3750.00", "explanation": "" },
+    { "text": "N3250.00", "explanation": "" }
+  ]
+}
+
+{
+  "id": 25,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "Find the difference between the median and mean of the scores: 4, 3, 5, 9, 4, 6, 3, 8, 6, 4, 5",
+  "options": [
+    { "text": "5", "explanation": "" },
+    { "text": "4", "explanation": "" },
+    { "text": "3", "explanation": "" },
+    { "text": "1", "explanation": "" }
+  ]
+}
+
+{
+  "id": 26,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "Three brothers Wunmi, Niyi, and Dare shared walnuts in the ratio 5:3:2. If Wunmi got 2 louts, how many did Niyi get?",
+  "options": []
+}
+
+{
+  "id": 27,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "Solve: 1/3 - 6/3 = 2",
+  "options": [
+    { "text": "-4", "explanation": "" },
+    { "text": "-3", "explanation": "" },
+    { "text": "3", "explanation": "" },
+    { "text": "4", "explanation": "" }
+  ]
+}
+
+{
+  "id": 28,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "The ratio of the inverse of tan is...",
+  "options": [
+    { "text": "opposite/adjacent", "explanation": "" },
+    { "text": "opposite/hypotenuse", "explanation": "" },
+    { "text": "adjacent/opposite", "explanation": "" },
+    { "text": "adjacent/hypotenuse", "explanation": "" }
+  ]
+}
+
+{
+  "id": 29,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "Add and 1100012 and 1000102. Your answer in base two.",
+  "options": [
+    { "text": "10100112", "explanation": "" },
+    { "text": "10110112", "explanation": "" },
+    { "text": "10101112", "explanation": "" },
+    { "text": "10111112", "explanation": "" }
+  ]
+}
+
+{
+  "id": 30,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "Express N6.5 trillion in digits.",
+  "options": [
+    { "text": "N650,000,000,000", "explanation": "" },
+    { "text": "N65,000,000,000", "explanation": "" },
+    { "text": "N650,000,000", "explanation": "" },
+    { "text": "N65,000,000", "explanation": "" }
+  ]
+}
+
+{
+  "id": 31,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "What is the value of x' in the figure above?",
+  "options": []
+}
+
+{
+  "id": 32,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "If the exchange rate for Dollar to Naira is N305.00, how much will $280 amount to?",
+  "options": [
+    { "text": "N84,000.00", "explanation": "" },
+    { "text": "N85,400.00", "explanation": "" },
+    { "text": "N88,500.00", "explanation": "" }
+  ]
+}
+
+{
+  "id": 33,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "A car travels 180 km in 45 minutes. Find the speed of the car in km/hr.",
+  "options": [
+    { "text": "240 km/hr", "explanation": "" },
+    { "text": "140 km/hr", "explanation": "" },
+    { "text": "100 km/hr", "explanation": "" },
+    { "text": "80 km/hr", "explanation": "" }
+  ]
+}
+
+
+
+{
+  "id": 34,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "Find the missing number in the subtraction:\n4 3 m 5 3\n2 6 9 8 6\n1 6 0 6 7",
+  "options": []
+}
+
+{
+  "id": 35,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "What is the value of the digit 5 in 6520090?",
+  "options": [
+    { "text": "50", "explanation": "" },
+    { "text": "500", "explanation": "" },
+    { "text": "5000", "explanation": "" },
+    { "text": "50000", "explanation": "" }
+  ]
+}
+
+{
+  "id": 36,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "In the figure, angle SAB is alternate to angle",
+  "options": [
+    { "text": "SCD", "explanation": "" },
+    { "text": "SDB", "explanation": "" },
+    { "text": "SBA", "explanation": "" },
+    { "text": "SDC", "explanation": "" }
+  ]
+}
+
+{
+  "id": 37,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "Mr. Rze bought a new Plasma TV for N75000.00. Later, he calculated the percentage loss.",
+  "options": [
+    { "text": "30%", "explanation": "" },
+    { "text": "50%", "explanation": "" },
+    { "text": "60%", "explanation": "" }
+  ]
+}
+
+{
+  "id": 38,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "Calculate the volume of a cone if the height is 3cm and the base radius is 7cm.",
+  "options": [
+    { "text": "145cm3", "explanation": "" },
+    { "text": "154cm3", "explanation": "" },
+    { "text": "452cm3", "explanation": "" },
+    { "text": "462cm3", "explanation": "" }
+  ]
+}
+
+{
+  "id": 39,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "Factorise: 1-(a-b)",
+  "options": [
+    { "text": "(1-a-b)(1-a+b)", "explanation": "" },
+    { "text": "(1-a+b)(1+a-b)", "explanation": "" },
+    { "text": "(1-a+b)(1+a+b)", "explanation": "" },
+    { "text": "9(1+a+b)(1-a-b)", "explanation": "" }
+  ]
+}
+
+{
+  "id": 40,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "The sum of n consecutive odd numbers is 80. Find the fourth number.",
+  "options": [
+    { "text": "13", "explanation": "" },
+    { "text": "19", "explanation": "" },
+    { "text": "23", "explanation": "" },
+    { "text": "27", "explanation": "" }
+  ]
+}
+
+{
+  "id": 41,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "Calculate the value of x0.",
+  "options": [
+    { "text": "500", "explanation": "" },
+    { "text": "550", "explanation": "" },
+    { "text": "450", "explanation": "" },
+    { "text": "750", "explanation": "" }
+  ]
+}
+
+{
+  "id": 42,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "Arrange 5/9, 2/3, and 8/21 in ascending order of magnitude.",
+  "options": [
+    { "text": "2/3, 5/9, and 8/21", "explanation": "" },
+    { "text": "5/9, 8/21, and 2/3", "explanation": "" },
+    { "text": "2/3, 8/21, and 5/9", "explanation": "" },
+    { "text": "8/21, 5/9, and 2/3", "explanation": "" }
+  ]
+}
+
+{
+  "id": 43,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "Simplify: (3/2)x + (5/3)x",
+  "options": [
+    { "text": "19/6x", "explanation": "" },
+    { "text": "19x/6", "explanation": "" },
+    { "text": "19/6", "explanation": "" },
+    { "text": "9x/10", "explanation": "" }
+  ]
+}
+
+{
+  "id": 44,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "Find the coefficient of y in the expansion of (2y – 1)(y – 6).",
+  "options": [
+    { "text": "-13", "explanation": "" },
+    { "text": "12", "explanation": "" },
+    { "text": "0", "explanation": "" },
+    { "text": "13", "explanation": "" }
+  ]
+}
+
+{
+  "id": 45,
+  "instruction": "Study the table below to answer questions 45 and 46. Given that y = 2x + 2 and ranging from – 2 < x < 6.",
+  "Comprehension": "",
+  "img": {},
+  "question": "",
+  "options": []
+}
+
+{
+  "id": 46,
+  "instruction": "",
+  "Comprehension": "",
+  "img": {},
+  "question": "",
+  "options": []
+}

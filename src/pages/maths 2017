@@ -1,0 +1,799 @@
+[
+  {
+    "id": 1,
+    "instruction": "Find the square root of...",
+    "Comprehension": "",
+    "img": {},
+    "question": "Find the square root of...",
+    "options": [
+      { "text": "A", "explanation": "" },
+      { "text": "B", "explanation": "" },
+      { "text": "C", "explanation": "" },
+      { "text": "D", "explanation": "" }
+    ]
+  },
+  {
+    "id": 2,
+    "instruction": "A number is tripled and then 11 is subtracted. If the result is 40, find the original number.",
+    "Comprehension": "",
+    "img": {},
+    "question": "A number is tripled and then 11 is subtracted. If the result is 40, find the original number.",
+    "options": [
+      { "text": "A. 91", "explanation": "" },
+      { "text": "B. 75", "explanation": "" },
+      { "text": "C. 57", "explanation": "" },
+      { "text": "D. 19", "explanation": "" }
+    ]
+  },
+  {
+    "id": 3,
+    "instruction": "Given that , express h in terms of A, a, and c.",
+    "Comprehension": "",
+    "img": {},
+    "question": "Given that , express h in terms of A, a, and c.",
+    "options": [
+      { "text": "", "explanation": "" }
+    ]
+  },
+  {
+    "id": 4,
+    "instruction": "A polygon has o as the total interior angle. How many sides has the polygon?",
+    "Comprehension": "",
+    "img": {},
+    "question": "A polygon has o as the total interior angle. How many sides has the polygon?",
+    "options": [
+      { "text": "A. 58", "explanation": "" },
+      { "text": "B. 48", "explanation": "" },
+      { "text": "C. 40", "explanation": "" },
+      { "text": "D. 32", "explanation": "" }
+    ]
+  },
+  {
+    "id": 5,
+    "instruction": "If the sum of the sectorial angles representing private cars and school buses is as given, find x.",
+    "Comprehension": "",
+    "img": {},
+    "question": "If the sum of the sectorial angles representing private cars and school buses is as given, find x.",
+    "options": [
+      { "text": "A. 252", "explanation": "" },
+      { "text": "B. 1600", "explanation": "" },
+      { "text": "C. 1260", "explanation": "" },
+      { "text": "D. 1080", "explanation": "" }
+    ]
+  }
+]
+
+
+[
+  {
+    "id": 6,
+    "instruction": "Find the simple interest on N7,200.00 at 3/40/0 for 5 years.",
+    "Comprehension": "",
+    "img": {},
+    "question": "Find the simple interest on N7,200.00 at 3/40/0 for 5 years.",
+    "options": [
+      { "text": "A. N420.00", "explanation": "" },
+      { "text": "B. N300.00", "explanation": "" },
+      { "text": "C. 7,200.00", "explanation": "" },
+      { "text": "D. N250.00", "explanation": "" }
+    ]
+  },
+  {
+    "id": 7,
+    "instruction": "Solve 2x - 6 < 4 diagrammatically.",
+    "Comprehension": "",
+    "img": {},
+    "question": "Solve 2x - 6 < 4 diagrammatically.",
+    "options": [
+      { "text": "", "explanation": "" }
+    ]
+  }
+]
+
+[
+  {
+    "id": 8,
+    "instruction": "The ratio of required outcome to the total outcome is",
+    "Comprehension": "",
+    "img": {},
+    "question": "The ratio of required outcome to the total outcome is",
+    "options": [
+      { "text": "A. Probability", "explanation": "" },
+      { "text": "B. Sample space", "explanation": "" },
+      { "text": "C. Game of chance", "explanation": "" },
+      { "text": "D. Outcomes", "explanation": "" }
+    ]
+  }
+]
+
+
+[
+  {
+    "id": 9,
+    "instruction": "Sola moved 7 units to the right then 6 units to the left. What is the new position?",
+    "Comprehension": "",
+    "img": {},
+    "question": "Sola moved 7 units to the right then 6 units to the left. What is the new position?",
+    "options": [
+      { "text": "", "explanation": "" }
+    ]
+  },
+  {
+    "id": 10,
+    "instruction": "In the expansion of (2a - 5b)^2, the coefficient of ab is",
+    "Comprehension": "",
+    "img": {},
+    "question": "In the expansion of (2a - 5b)^2, the coefficient of ab is",
+    "options": [
+      { "text": "A. 20", "explanation": "" },
+      { "text": "B. 15", "explanation": "" },
+      { "text": "C. -15", "explanation": "" },
+      { "text": "D. -20", "explanation": "" }
+    ]
+  }
+]
+
+[
+  {
+    "id": 11,
+    "instruction": "The triangle beside is called",
+    "Comprehension": "",
+    "img": {},
+    "question": "The triangle beside is called",
+    "options": [
+      { "text": "A. Scalene triangle", "explanation": "" },
+      { "text": "B. Obtuse-angled triangle", "explanation": "" },
+      { "text": "C. Isosceles triangle", "explanation": "" },
+      { "text": "D. Right-angled triangle", "explanation": "" }
+    ]
+  },
+  {
+    "id": 12,
+    "instruction": "Simplify (-8)(-1/4)(16)",
+    "Comprehension": "",
+    "img": {},
+    "question": "Simplify (-8)(-1/4)(16)",
+    "options": [
+      { "text": "A. -2", "explanation": "" },
+      { "text": "B. -1", "explanation": "" },
+      { "text": "C. 1", "explanation": "" },
+      { "text": "D. 2", "explanation": "" }
+    ]
+  },
+  {
+    "id": 13,
+    "instruction": "Express 52 kobo as a decimal of N1.00.",
+    "Comprehension": "",
+    "img": {},
+    "question": "Express 52 kobo as a decimal of N1.00.",
+    "options": [
+      { "text": "A. N52.00", "explanation": "" },
+      { "text": "B. N5.20", "explanation": "" },
+      { "text": "C. N0.52", "explanation": "" },
+      { "text": "D. N0.052", "explanation": "" }
+    ]
+  },
+  {
+    "id": 14,
+    "instruction": "The sum of angles at a point is",
+    "Comprehension": "",
+    "img": {},
+    "question": "The sum of angles at a point is",
+    "options": [
+      { "text": "A. 3600", "explanation": "" },
+      { "text": "B. 2700", "explanation": "" },
+      { "text": "C. 1800", "explanation": "" },
+      { "text": "D. 1200", "explanation": "" }
+    ]
+  },
+  {
+    "id": 15,
+    "instruction": "Solve these simultaneous equations:\n2X-y=4\n+ Y = 21",
+    "Comprehension": "",
+    "img": {},
+    "question": "Solve these simultaneous equations:\n2X-y=4\n+ Y = 21",
+    "options": [
+      { "text": "A. x = -5 and y = -6", "explanation": "" },
+      { "text": "B. x = -5 and y = 6", "explanation": "" },
+      { "text": "C. x = 5 and y = 6", "explanation": "" },
+      { "text": "D. x = 6 and y = 5", "explanation": "" }
+    ]
+  },
+  {
+    "id": 16,
+    "instruction": "What number is represented by the tally marks below?",
+    "Comprehension": "",
+    "img": {},
+    "question": "What number is represented by the tally marks below?",
+    "options": [
+      { "text": "A. 43", "explanation": "" },
+      { "text": "B. 33", "explanation": "" },
+      { "text": "C. 23", "explanation": "" },
+      { "text": "D. 13", "explanation": "" }
+    ]
+  },
+  {
+    "id": 17,
+    "instruction": "In this diagram, angles x and y are called",
+    "Comprehension": "",
+    "img": {},
+    "question": "In this diagram, angles x and y are called",
+    "options": [
+      { "text": "A. Angles in alternate segment", "explanation": "" },
+      { "text": "B. Complementary angles", "explanation": "" },
+      { "text": "C. Supplementary angles", "explanation": "" },
+      { "text": "D. Vertically opposite angles", "explanation": "" }
+    ]
+  },
+  {
+    "id": 18,
+    "instruction": "Find the area of a semi-circle of radius 7 cm",
+    "Comprehension": "",
+    "img": {},
+    "question": "Find the area of a semi-circle of radius 7 cm",
+    "options": [
+      { "text": "A. 78 cm²", "explanation": "" },
+      { "text": "B. 77 cm²", "explanation": "" },
+      { "text": "C. 68 cm²", "explanation": "" },
+      { "text": "D. 44 cm²", "explanation": "" }
+    ]
+  },
+  {
+    "id": 19,
+    "instruction": "Round the product of 0.025 and 0.3 to 1 significant figure",
+    "Comprehension": "",
+    "img": {},
+    "question": "Round the product of 0.025 and 0.3 to 1 significant figure",
+    "options": [
+      { "text": "A. 0.1", "explanation": "" },
+      { "text": "B. 0.08", "explanation": "" },
+      { "text": "C. 0.05", "explanation": "" },
+      { "text": "D. 0.04", "explanation": "" }
+    ]
+  },
+  {
+    "id": 20,
+    "instruction": "Express b/2b as a single fraction.",
+    "Comprehension": "",
+    "img": {},
+    "question": "Express b/2b as a single fraction.",
+    "options": [
+      { "text": "A. -b/10", "explanation": "" },
+      { "text": "B. 3/3", "explanation": "" },
+      { "text": "C. 3/b", "explanation": "" },
+      { "text": "D. -1/2", "explanation": "" }
+    ]
+  }
+]
+
+
+
+[
+  {
+    "id": 21,
+    "instruction": "Name the solid shape that can be made from the net shown below",
+    "Comprehension": "",
+    "img": {},
+    "question": "Name the solid shape that can be made from the net shown below",
+    "options": [
+      { "text": "A. Hexagonal pyramid", "explanation": "" },
+      { "text": "B. Rectangular-based pyramid", "explanation": "" },
+      { "text": "C. Square-based pyramid", "explanation": "" },
+      { "text": "D. Triangular prism", "explanation": "" }
+    ]
+  },
+  {
+    "id": 22,
+    "instruction": "Solve a + 4 > 10a - 23",
+    "Comprehension": "",
+    "img": {},
+    "question": "Solve a + 4 > 10a - 23",
+    "options": [
+      { "text": "A. a > 3", "explanation": "" },
+      { "text": "B. a > 3", "explanation": "" },
+      { "text": "C. a < -3", "explanation": "" },
+      { "text": "D. a ≥ -3", "explanation": "" }
+    ]
+  },
+  {
+    "id": 23,
+    "instruction": "Three friends Fayo, Titi, and Tunde shared a quantity of walnuts in the ratio 3:4:5. If Tayo got 21 walnuts, how many did Titi get?",
+    "Comprehension": "",
+    "img": {},
+    "question": "Three friends Fayo, Titi, and Tunde shared a quantity of walnuts in the ratio 3:4:5. If Tayo got 21 walnuts, how many did Titi get?",
+    "options": [
+      { "text": "A. 35", "explanation": "" },
+      { "text": "B. 28", "explanation": "" },
+      { "text": "C. 21", "explanation": "" },
+      { "text": "D. 14", "explanation": "" }
+    ]
+  },
+  {
+    "id": 24,
+    "instruction": "Find the marked angle P in the figure below",
+    "Comprehension": "",
+    "img": {},
+    "question": "Find the marked angle P in the figure below",
+    "options": [
+      { "text": "A. 300", "explanation": "" },
+      { "text": "B. 600", "explanation": "" },
+      { "text": "C. 1200", "explanation": "" },
+      { "text": "D. 1500", "explanation": "" }
+    ]
+  },
+  {
+    "id": 25,
+    "instruction": "The least common multiple of 1/2, 1/3, 4/5, and 3/10 is",
+    "Comprehension": "",
+    "img": {},
+    "question": "The least common multiple of 1/2, 1/3, 4/5, and 3/10 is",
+    "options": [
+      { "text": "A. 90", "explanation": "" },
+      { "text": "B. 50", "explanation": "" },
+      { "text": "C. 30", "explanation": "" },
+      { "text": "D. 15", "explanation": "" }
+    ]
+  },
+  {
+    "id": 26,
+    "instruction": "Reduce 36X3Y/18X2Y2 to its lowest term.",
+    "Comprehension": "",
+    "img": {},
+    "question": "Reduce 36X3Y/18X2Y2 to its lowest term.",
+    "options": [
+      { "text": "A. x/y", "explanation": "" },
+      { "text": "B. 2x/y", "explanation": "" },
+      { "text": "C. 2x2/y", "explanation": "" },
+      { "text": "D. 2/Y", "explanation": "" }
+    ]
+  },
+  {
+    "id": 27,
+    "instruction": "Given that m = 3, put (<, >, ≤, ≥) in the box for the inequality below: m + 3m 2m - 6",
+    "Comprehension": "",
+    "img": {},
+    "question": "Given that m = 3, put (<, >, ≤, ≥) in the box for the inequality below: m + 3m 2m - 6",
+    "options": [
+      { "text": "A. <", "explanation": "" },
+      { "text": "B. >", "explanation": "" },
+      { "text": "C. ≤", "explanation": "" },
+      { "text": "D. ≥", "explanation": "" }
+    ]
+  },
+  {
+    "id": 28,
+    "instruction": "If a student stands 15 m away directly west of a tree, what is the tree's bearing from the student?",
+    "Comprehension": "",
+    "img": {},
+    "question": "If a student stands 15 m away directly west of a tree, what is the tree's bearing from the student?",
+    "options": [
+      { "text": "A. 0300", "explanation": "" },
+      { "text": "B. 0450", "explanation": "" },
+      { "text": "C. 0900", "explanation": "" },
+      { "text": "D. 2700", "explanation": "" }
+    ]
+  }
+]
+
+
+[
+  {
+    "id": 29,
+    "instruction": "PQRS is a quadrilateral. Then PQ is called",
+    "Comprehension": "",
+    "img": {},
+    "question": "PQRS is a quadrilateral. Then PQ is called",
+    "options": [
+      { "text": "A. chord", "explanation": "" },
+      { "text": "B. diagonal", "explanation": "" },
+      { "text": "C. diameter", "explanation": "" },
+      { "text": "D. symmetry", "explanation": "" }
+    ]
+  },
+  {
+    "id": 30,
+    "instruction": "Subtract -9 from the sum of -8 and 10.",
+    "Comprehension": "",
+    "img": {},
+    "question": "Subtract -9 from the sum of -8 and 10.",
+    "options": [
+      { "text": "A. 11", "explanation": "" },
+      { "text": "B. 7", "explanation": "" },
+      { "text": "C. -7", "explanation": "" },
+      { "text": "D. -11", "explanation": "" }
+    ]
+  },
+  {
+    "id": 31,
+    "instruction": "Express 40% as a decimal number.",
+    "Comprehension": "",
+    "img": {},
+    "question": "Express 40% as a decimal number.",
+    "options": [
+      { "text": "a. 0.02", "explanation": "" },
+      { "text": "b. 0.20", "explanation": "" },
+      { "text": "c. 0.40", "explanation": "" },
+      { "text": "d. 4.00", "explanation": "" }
+    ]
+  },
+  {
+    "id": 32,
+    "instruction": "What is the value of n if 5.69 x 10^n = 5690000?",
+    "Comprehension": "",
+    "img": {},
+    "question": "What is the value of n if 5.69 x 10^n = 5690000?",
+    "options": [
+      { "text": "A. 7", "explanation": "" },
+      { "text": "B. 6", "explanation": "" },
+      { "text": "C. 5", "explanation": "" },
+      { "text": "D. 4", "explanation": "" }
+    ]
+  },
+  {
+    "id": 33,
+    "instruction": "List the prime factors of 150.",
+    "Comprehension": "",
+    "img": {},
+    "question": "List the prime factors of 150.",
+    "options": [
+      { "text": "A. 2, 5, 15", "explanation": "" },
+      { "text": "B. 2, 3, 10", "explanation": "" },
+      { "text": "C. 3, 5, 10", "explanation": "" },
+      { "text": "D. 2, 3, 5", "explanation": "" }
+    ]
+  },
+  {
+    "id": 34,
+    "instruction": "If x varies directly as T and x = 105 when T = 400, find x when T = 500.",
+    "Comprehension": "",
+    "img": {},
+    "question": "If x varies directly as T and x = 105 when T = 400, find x when T = 500.",
+    "options": [
+      { "text": "A. 1250", "explanation": "" },
+      { "text": "B. 12500", "explanation": "" },
+      { "text": "C. 125000", "explanation": "" },
+      { "text": "D. 1250000", "explanation": "" }
+    ]
+  },
+  {
+    "id": 35,
+    "instruction": "Calculate the area of the trapezium shown below.",
+    "Comprehension": "",
+    "img": {},
+    "question": "Calculate the area of the trapezium shown below.",
+    "options": [
+      { "text": "A. 45 cm2", "explanation": "" },
+      { "text": "B. 50 cm2", "explanation": "" },
+      { "text": "C. 60 cm2", "explanation": "" },
+      { "text": "D. 72 cm2", "explanation": "" }
+    ]
+  }
+]
+
+
+[
+  {
+    "id": 36,
+    "instruction": "What is 1/4 of the H.C.F of 24, 16, and 48?",
+    "Comprehension": "",
+    "img": {},
+    "question": "What is 1/4 of the H.C.F of 24, 16, and 48?",
+    "options": [
+      { "text": "A. 16", "explanation": "" },
+      { "text": "B. 8", "explanation": "" },
+      { "text": "C. 4", "explanation": "" },
+      { "text": "D. 2", "explanation": "" }
+    ]
+  },
+  {
+    "id": 37,
+    "instruction": "A tennis ball is an example of",
+    "Comprehension": "",
+    "img": {},
+    "question": "A tennis ball is an example of",
+    "options": [
+      { "text": "A. cone", "explanation": "" },
+      { "text": "B. cuboid", "explanation": "" },
+      { "text": "C. hemisphere", "explanation": "" },
+      { "text": "D. sphere", "explanation": "" }
+    ]
+  },
+  {
+    "id": 38,
+    "instruction": "Find the simple interest on N8000.00 for 3 years at 3.5% per annum.",
+    "Comprehension": "",
+    "img": {},
+    "question": "Find the simple interest on N8000.00 for 3 years at 3.5% per annum.",
+    "options": [
+      { "text": "A. N480.00", "explanation": "" },
+      { "text": "B. N840.00", "explanation": "" },
+      { "text": "C. N4800.00", "explanation": "" },
+      { "text": "D. N8400.00", "explanation": "" }
+    ]
+  },
+  {
+    "id": 39,
+    "instruction": "Ayo earns N50,000.00 monthly, and he spends altogether. If he saves the rest, find the percentage of his saving.",
+    "Comprehension": "",
+    "img": {},
+    "question": "Ayo earns N50,000.00 monthly, and he spends altogether. If he saves the rest, find the percentage of his saving.",
+    "options": [
+      { "text": "A. 70%", "explanation": "" },
+      { "text": "B. 50%", "explanation": "" },
+      { "text": "C. 30%", "explanation": "" },
+      { "text": "D. 15%", "explanation": "" }
+    ]
+  },
+  {
+    "id": 40,
+    "instruction": "In a set of data: 3, 4, 5, 6, 7, 0, 9, 10, 11, the probability that an odd number is chosen is",
+    "Comprehension": "",
+    "img": {},
+    "question": "In a set of data: 3, 4, 5, 6, 7, 0, 9, 10, 11, the probability that an odd number is chosen is",
+    "options": [
+      { "text": "A. 5/9", "explanation": "" },
+      { "text": "B. 4/9", "explanation": "" },
+      { "text": "C. 3/9", "explanation": "" },
+      { "text": "D. 2/9", "explanation": "" }
+    ]
+  },
+  {
+    "id": 41,
+    "instruction": "What is the size of the angle marked y in the diagram below?",
+    "Comprehension": "",
+    "img": {},
+    "question": "What is the size of the angle marked y in the diagram below?",
+    "options": [
+      { "text": "A. 840", "explanation": "" },
+      { "text": "B. 720", "explanation": "" },
+      { "text": "C. 480", "explanation": "" },
+      { "text": "D. 420", "explanation": "" }
+    ]
+  },
+  {
+    "id": 42,
+    "instruction": "A man can type 21 words per minute. How long will it take him to type 3780 words?",
+    "Comprehension": "",
+    "img": {},
+    "question": "A man can type 21 words per minute. How long will it take him to type 3780 words?",
+    "options": [
+      { "text": "A. 4 hours", "explanation": "" },
+      { "text": "B. 3 hours", "explanation": "" },
+      { "text": "C. 2 hours", "explanation": "" },
+      { "text": "D. 1 hour", "explanation": "" }
+    ]
+  },
+  {
+    "id": 43,
+    "instruction": "Simplify: 641/2 x 361/2 x 100.",
+    "Comprehension": "",
+    "img": {},
+    "question": "Simplify: 641/2 x 361/2 x 100.",
+    "options": [
+      { "text": "A. 480", "explanation": "" },
+      { "text": "B. 384", "explanation": "" },
+      { "text": "C. 96", "explanation": "" },
+      { "text": "D. 48", "explanation": "" }
+    ]
+  },
+  {
+    "id": 44,
+    "instruction": "A certain amount of foodstuff will be consumed by 15 persons in 4 days. How long will it take if it is shared among 6 persons eating at the same rate?",
+    "Comprehension": "",
+    "img": {},
+    "question": "A certain amount of foodstuff will be consumed by 15 persons in 4 days. How long will it take if it is shared among 6 persons eating at the same rate?",
+    "options": [
+      { "text": "A. 5 days", "explanation": "" },
+      { "text": "B. 10 days", "explanation": "" },
+      { "text": "C. 15 days", "explanation": "" },
+      { "text": "D. 60 days", "explanation": "" }
+    ]
+  },
+  {
+    "id": 45,
+    "instruction": "Mrs. Bolajoko invested N1082000.00 in 2010. Rewrite this amount correctly to the nearest million.",
+    "Comprehension": "",
+    "img": {},
+    "question": "Mrs. Bolajoko invested N1082000.00 in 2010. Rewrite this amount correctly to the nearest million.",
+    "options": [
+      { "text": "A. N2 million", "explanation": "" },
+      { "text": "B. N1.1 million", "explanation": "" },
+      { "text": "C. N1.08 million", "explanation": "" },
+      { "text": "D. N1 million", "explanation": "" }
+    ]
+  },
+  {
+    "id": 46,
+    "instruction": "Simplify by removing the brackets: (a - 7b) - (8a - b)",
+    "Comprehension": "",
+    "img": {},
+    "question": "Simplify by removing the brackets: (a - 7b) - (8a - b)",
+    "options": [
+      { "text": "A. 7a + 6b", "explanation": "" },
+      { "text": "B. 7a - 6b", "explanation": "" },
+      { "text": "C. -7a + 6b", "explanation": "" },
+      { "text": "D. -7a - 6b", "explanation": "" }
+    ]
+  },
+  {
+    "id": 47,
+    "instruction": "If 58456 = 58 * 60, find * which makes the nearest ten approximation possible.",
+    "Comprehension": "",
+    "img": {},
+    "question": "If 58456 = 58 * 60, find * which makes the nearest ten approximation possible.",
+    "options": [],
+    "answer": { "text": "6", "explanation": "" }
+  },
+  {
+    "id": 48,
+    "instruction": "Which of these is an improper fraction?",
+    "Comprehension": "",
+    "img": {},
+    "question": "Which of these is an improper fraction?",
+    "options": [
+      { "text": "A. 31/2", "explanation": "" },
+      { "text": "B. 6/7", "explanation": "" },
+      { "text": "C. 4/5", "explanation": "" },
+      { "text": "D. 2/3", "explanation": "" }
+    ]
+  },
+  {
+    "id": 49,
+    "instruction": "The diagonals of a rhombus are 8 cm and 10 cm respectively. Find the area of the rhombus.",
+    "Comprehension": "",
+    "img": {},
+    "question": "The diagonals of a rhombus are 8 cm and 10 cm respectively. Find the area of the rhombus.",
+    "options": [
+      { "text": "A. 40 cm2", "explanation": "" },
+      { "text": "B. 45 cm2", "explanation": "" },
+      { "text": "C. 50 cm2", "explanation": "" },
+      { "text": "D. 55 cm2", "explanation": "" }
+    ]
+  },
+  {
+    "id": 50,
+    "instruction": "A man paid N225.00 to purchase a book marked N250.00. He had N25.00 as",
+    "Comprehension": "",
+    "img": {},
+    "question": "A man paid N225.00 to purchase a book marked N250.00. He had N25.00 as",
+    "options": [
+      { "text": "A. commission", "explanation": "" },
+      { "text": "B. discount", "explanation": "" },
+      { "text": "C. loss", "explanation": "" },
+      { "text": "D. profit", "explanation": "" }
+    ]
+  },
+  {
+    "id": 51,
+    "instruction": "A group of students measured the temperature of a room and obtained the following results: 23°C, 25°C, 26°C, 27°C, 26°C, 24°C, 26°C, 25°C, 27°C, 24°C. The range of the temperature is",
+    "Comprehension": "",
+    "img": {},
+    "question": "A group of students measured the temperature of a room and obtained the following results: 23°C, 25°C, 26°C, 27°C, 26°C, 24°C, 26°C, 25°C, 27°C, 24°C. The range of the temperature is",
+    "options": [
+      { "text": "A. 20°C", "explanation": "" },
+      { "text": "B. 30°C", "explanation": "" },
+      { "text": "C. 40°C", "explanation": "" },
+      { "text": "D. 50°C", "explanation": "" }
+    ]
+  }
+]
+
+[
+  {
+    "id": 52,
+    "instruction": "The perimeter of the shape shown below is ... (All units in cm)",
+    "Comprehension": "",
+    "img": {},
+    "question": "The perimeter of the shape shown below is ...",
+    "options": [
+      { "text": "A. (4x + 4y) cm", "explanation": "" },
+      { "text": "B. (4x + 6y + 4) cm", "explanation": "" },
+      { "text": "C. (6y - 2) cm", "explanation": "" },
+      { "text": "D. (4x + 6y - 4) cm", "explanation": "" }
+    ]
+  },
+  {
+    "id": 53,
+    "instruction": "A correct 45775 to 1 significant figure.",
+    "Comprehension": "",
+    "img": {},
+    "question": "A correct 45775 to 1 significant figure.",
+    "options": [
+      { "text": "A. 5000", "explanation": "" },
+      { "text": "B. 5000 to 1 significant figure.", "explanation": "" },
+      { "text": "C. 500 figure.", "explanation": "" },
+      { "text": "D. 50", "explanation": "" }
+    ]
+  },
+  {
+    "id": 54,
+    "instruction": "How many vertices has a cuboid?",
+    "Comprehension": "",
+    "img": {},
+    "question": "How many vertices has a cuboid?",
+    "options": [
+      { "text": "A. 12", "explanation": "" },
+      { "text": "B. 10", "explanation": "" },
+      { "text": "C. 8", "explanation": "" },
+      { "text": "D. 6", "explanation": "" }
+    ]
+  },
+  {
+    "id": 55,
+    "instruction": "A region of a circle between a chord and part of circumference is called",
+    "Comprehension": "",
+    "img": {},
+    "question": "A region of a circle between a chord and part of circumference is called",
+    "options": [
+      { "text": "A. arc", "explanation": "" },
+      { "text": "B. sector", "explanation": "" },
+      { "text": "C. segment", "explanation": "" },
+      { "text": "D. semi-circle", "explanation": "" }
+    ]
+  },
+  {
+    "id": 56,
+    "instruction": "When an event is certain to happen, the probability is ……",
+    "Comprehension": "",
+    "img": {},
+    "question": "When an event is certain to happen, the probability is ……",
+    "options": [
+      { "text": "A. 2", "explanation": "" },
+      { "text": "B. 1", "explanation": "" },
+      { "text": "C. 1/2", "explanation": "" },
+      { "text": "D. 0", "explanation": "" }
+    ]
+  },
+  {
+    "id": 57,
+    "instruction": "Take away 125mm from 38cm giving your answer in mm.",
+    "Comprehension": "",
+    "img": {},
+    "question": "Take away 125mm from 38cm giving your answer in mm.",
+    "options": [
+      { "text": "A. 22.5mm", "explanation": "" },
+      { "text": "B. 225mm", "explanation": "" },
+      { "text": "C. 252mm", "explanation": "" },
+      { "text": "D. 255mm", "explanation": "" }
+    ]
+  },
+  {
+    "id": 58,
+    "instruction": "Solve for x in the equation 21/4 – 11/2x = 0",
+    "Comprehension": "",
+    "img": {},
+    "question": "Solve for x in the equation 21/4 – 11/2x = 0",
+    "options": [
+      { "text": "A. 2 4/9", "explanation": "" },
+      { "text": "B. -9/24", "explanation": "" },
+      { "text": "C. 9/24", "explanation": "" },
+      { "text": "D. -24/9", "explanation": "" }
+    ]
+  },
+  {
+    "id": 59,
+    "instruction": "A rectangular container has a length of 30 mm, width 25 mm, and height 15 mm. The volume of the container is",
+    "Comprehension": "",
+    "img": {},
+    "question": "A rectangular container has a length of 30 mm, width 25 mm, and height 15 mm. The volume of the container is",
+    "options": [
+      { "text": "A. 112.5 cm2", "explanation": "" },
+      { "text": "B. 112.5 cm3", "explanation": "" },
+      { "text": "C. 11.25 cm2", "explanation": "" },
+      { "text": "D. 11.25 cm3", "explanation": "" }
+    ]
+  },
+  {
+    "id": 60,
+    "instruction": "The pair of alternate angles in the figure below are",
+    "Comprehension": "",
+    "img": {},
+    "question": "The pair of alternate angles in the figure below are",
+    "options": [
+      { "text": "A. a and y", "explanation": "" },
+      { "text": "B. x and y", "explanation": "" },
+      { "text": "C. x and a", "explanation": "" },
+      { "text": "D. c and b", "explanation": "" }
+    ]
+  }
+]

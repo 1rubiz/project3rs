@@ -1,0 +1,1200 @@
+[
+  {
+    "id": 1,
+    "instruction": "a trait that manifest in every generation is called",
+    "Comprehension": "",
+    "img": {},
+    "question": "A trait that manifests in every generation is called",
+    "options": [
+      { "text": "Dominant gene", "explanation": "" },
+      { "text": "Recessive gene", "explanation": "" },
+      { "text": "Homozygous gene", "explanation": "" },
+      { "text": "Heterozygous gene", "explanation": "" }
+    ]
+  },
+  {
+    "id": 2,
+    "instruction": "In order to avoid teenage pregnancy, an adolescent girl should ...",
+    "Comprehension": "",
+    "img": {},
+    "question": "In order to avoid teenage pregnancy, an adolescent girl should",
+    "options": [
+      { "text": "Accept frequent gifts from men", "explanation": "" },
+      { "text": "Seek unnecessary favors from men", "explanation": "" },
+      { "text": "Mingle carelessly with men", "explanation": "" },
+      { "text": "Dress modestly at all times", "explanation": "" }
+    ]
+  },
+  {
+    "id": 3,
+    "instruction": "Lack of protein in the body causes",
+    "Comprehension": "",
+    "img": {},
+    "question": "Lack of protein in the body causes",
+    "options": [
+      { "text": "Rickets", "explanation": "" },
+      { "text": "Beriberi", "explanation": "" },
+      { "text": "Kwashiorkor", "explanation": "" },
+      { "text": "Night blindness", "explanation": "" }
+    ]
+  },
+  {
+    "id": 4,
+    "instruction": "Oil spillage is a good example of ...",
+    "Comprehension": "",
+    "img": {},
+    "question": "Oil spillage is a good example of",
+    "options": [
+      { "text": "Air pollution", "explanation": "" },
+      { "text": "Land pollution", "explanation": "" },
+      { "text": "Water pollution", "explanation": "" },
+      { "text": "Noise pollution", "explanation": "" }
+    ]
+  },
+  {
+    "id": 5,
+    "instruction": "People living with HIV/AIDS should",
+    "Comprehension": "",
+    "img": {},
+    "question": "People living with HIV/AIDS should",
+    "options": [
+      { "text": "Have unprotected sex", "explanation": "" },
+      { "text": "Regularly take their medication", "explanation": "" },
+      { "text": "Not be loved and cared for", "explanation": "" },
+      { "text": "Always donate blood to patients", "explanation": "" }
+    ]
+  },
+  {
+    "id": 6,
+    "instruction": "In magnetism, ...",
+    "Comprehension": "",
+    "img": {},
+    "question": "In magnetism,",
+    "options": [
+      { "text": "Unlike poles attract", "explanation": "" },
+      { "text": "Like poles attract", "explanation": "" },
+      { "text": "Like charges attract", "explanation": "" },
+      { "text": "Unlike charges repel", "explanation": "" }
+    ]
+  },
+  {
+    "id": 7,
+    "instruction": "How much work is done when a body pushes a truck of 20N through a distance of 10m?",
+    "Comprehension": "",
+    "img": {},
+    "question": "How much work is done when a body pushes a truck of 20N through a distance of 10m?",
+    "options": [
+      { "text": "2J", "explanation": "" },
+      { "text": "10J", "explanation": "" },
+      { "text": "30J", "explanation": "" },
+      { "text": "200J", "explanation": "" }
+    ]
+  },
+  {
+    "id": 8,
+    "instruction": "At puberty, it's important to ...",
+    "Comprehension": "",
+    "img": {},
+    "question": "At puberty, it's important to",
+    "options": [
+      { "text": "Keep good friends", "explanation": "" },
+      { "text": "Maintain personal cleanliness", "explanation": "" },
+      { "text": "Attractively dress", "explanation": "" },
+      { "text": "Be disciplined", "explanation": "" }
+    ]
+  },
+  {
+    "id": 9,
+    "instruction": "The part of a duck which enables it to survive on the land is ...",
+    "Comprehension": "",
+    "img": {},
+    "question": "The part of a duck which enables it to survive on the land is",
+    "options": [
+      { "text": "Paired lungs", "explanation": "" },
+      { "text": "Oil gland", "explanation": "" },
+      { "text": "Sweat gland", "explanation": "" },
+      { "text": "Webbed foot", "explanation": "" }
+    ]
+  },
+  {
+    "id": 10,
+    "instruction": "The epidemic infection outbreaks which occur when astronauts visit space is ...",
+    "Comprehension": "",
+    "img": {},
+    "question": "The epidemic infection outbreaks which occur when astronauts visit space is",
+    "options": [
+      { "text": "Asthma", "explanation": "" },
+      { "text": "Hay fever", "explanation": "" },
+      { "text": "Conjunctivitis", "explanation": "" },
+      { "text": "Silicosis", "explanation": "" }
+    ]
+  },
+  {
+    "id": 11,
+    "instruction": "Drug abuse may be prevented among the youths through",
+    "Comprehension": "",
+    "img": {},
+    "question": "Drug abuse may be prevented among the youths through",
+    "options": [
+      { "text": "Adoption of unhealthy lifestyle", "explanation": "" },
+      { "text": "Inculcation of life copying", "explanation": "" },
+      { "text": "Adoption of negative social interaction", "explanation": "" },
+      { "text": "Selective friendships", "explanation": "" }
+    ]
+  },
+  {
+    "id": 12,
+    "instruction": "The only metal found in a liquid state at room temperature is ...",
+    "Comprehension": "",
+    "img": {},
+    "question": "The only metal found in a liquid state at room temperature is",
+    "options": [
+      { "text": "Magnesium", "explanation": "" },
+      { "text": "Molybdenum", "explanation": "" },
+      { "text": "Manganese", "explanation": "" },
+      { "text": "Mercury", "explanation": "" }
+    ]
+  },
+  {
+    "id": 13,
+    "instruction": "Aquatic animals respire with the aid of ...",
+    "Comprehension": "",
+    "img": {},
+    "question": "Aquatic animals respire with the aid of",
+    "options": [
+      { "text": "Trachea", "explanation": "" },
+      { "text": "Lungs", "explanation": "" },
+      { "text": "Gills", "explanation": "" },
+      { "text": "Skin", "explanation": "" }
+    ]
+  },
+  {
+    "id": 14,
+    "instruction": "Which of the following is a renewable source of energy",
+    "Comprehension": "",
+    "img": {},
+    "question": "Which of the following is a renewable source of energy",
+    "options": [
+      { "text": "Coal", "explanation": "" },
+      { "text": "Sun", "explanation": "" },
+      { "text": "Petroleum", "explanation": "" },
+      { "text": "Wood", "explanation": "" }
+    ]
+  },
+  {
+    "id": 15,
+    "instruction": "Carbon (IV) oxide is added to the air through these processes except",
+    "Comprehension": "",
+    "img": {},
+    "question": "Carbon (IV) oxide is added to the air through these processes except",
+    "options": [
+      { "text": "Photosynthesis", "explanation": "" },
+      { "text": "Combustion", "explanation": "" },
+      { "text": "Decomposition", "explanation": "" },
+      { "text": "Respiration", "explanation": "" }
+    ]
+  },
+  {
+    "id": 16,
+    "instruction": "Colostrum contained in breast milk is rich in ...",
+    "Comprehension": "",
+    "img": {},
+    "question": "Colostrum contained in breast milk is rich in",
+    "options": [
+      { "text": "Carbohydrates and antigen", "explanation": "" },
+      { "text": "Vitamins and antibiotics", "explanation": "" },
+      { "text": "Minerals and oil", "explanation": "" },
+      { "text": "Proteins and antibiotics", "explanation": "" }
+    ]
+  },
+  {
+    "id": 17,
+    "instruction": "The natural satellite of the earth is ...",
+    "Comprehension": "",
+    "img": {},
+    "question": "The natural satellite of the earth is",
+    "options": [
+      { "text": "Jupiter", "explanation": "" },
+      { "text": "Mars", "explanation": "" },
+      { "text": "Moon", "explanation": "" },
+      { "text": "Constellation", "explanation": "" }
+    ]
+  },
+  {
+    "id": 18,
+    "instruction": "The commissioner of health in Lagos state is ...",
+    "Comprehension": "",
+    "img": {},
+    "question": "The commissioner of health in Lagos state is",
+    "options": [
+      { "text": "Idiah Adebule", "explanation": "" },
+      { "text": "Sarah Sosan", "explanation": "" },
+      { "text": "Jide Idris", "explanation": "" },
+      { "text": "Samuel Godonos", "explanation": "" }
+    ]
+  },
+  {
+    "id": 19,
+    "instruction": "The following resources are obtained from decayed living matter EXCEPT ...",
+    "Comprehension": "",
+    "img": {},
+    "question": "The following resources are obtained from decayed living matter EXCEPT",
+    "options": [
+      { "text": "Iron", "explanation": "" },
+      { "text": "Coal", "explanation": "" },
+      { "text": "Diesel", "explanation": "" },
+      { "text": "Methane", "explanation": "" }
+    ]
+  },
+  {
+    "id": 20,
+    "instruction": "The light ray that strikes the surface of the mirror is the ...",
+    "Comprehension": "",
+    "img": {},
+    "question": "The light ray that strikes the surface of the mirror is the",
+    "options": [
+      { "text": "Normal ray", "explanation": "" },
+      { "text": "Reflected ray", "explanation": "" },
+      { "text": "Refracted ray", "explanation": "" },
+      { "text": "Incident ray", "explanation": "" }
+    ]
+  }
+]
+
+
+
+section B
+
+
+
+[
+  {
+    "id": 26,
+    "instruction": "Gear ratio can be used to determine the ...",
+    "Comprehension": "",
+    "img": {},
+    "question": "Gear ratio can be used to determine the",
+    "options": [
+      { "text": "Speed of rotation", "explanation": "" },
+      { "text": "Location of gear", "explanation": "" },
+      { "text": "Number of gear", "explanation": "" },
+      { "text": "Type of gear", "explanation": "" }
+    ]
+  },
+  {
+    "id": 27,
+    "instruction": "Which of these machines make use of an air compressor?",
+    "Comprehension": "",
+    "img": {},
+    "question": "Which of these machines make use of an air compressor?",
+    "options": [
+      { "text": "Pneumatic", "explanation": "" },
+      { "text": "Hydraulic", "explanation": "" },
+      { "text": "Centrifugal", "explanation": "" },
+      { "text": "Wind mill", "explanation": "" }
+    ]
+  },
+  {
+    "id": 28,
+    "instruction": "Which of the following is not a type of belt drive?",
+    "Comprehension": "",
+    "img": {},
+    "question": "Which of the following is not a type of belt drive?",
+    "options": [
+      { "text": "Flat belt", "explanation": "" },
+      { "text": "Variable belt", "explanation": "" },
+      { "text": "V-belt", "explanation": "" },
+      { "text": "T-belt", "explanation": "" }
+    ]
+  },
+  {
+    "id": 29,
+    "instruction": "A belt sander is used for ...",
+    "Comprehension": "",
+    "img": {},
+    "question": "A belt sander is used for",
+    "options": [
+      { "text": "Slicing", "explanation": "" },
+      { "text": "Cutting and shaping of wood", "explanation": "" },
+      { "text": "Shaping and finishing", "explanation": "" },
+      { "text": "Drilling and finishing of wood", "explanation": "" }
+    ]
+  },
+  {
+    "id": 30,
+    "instruction": "In order to develop our Technology, we must",
+    "Comprehension": "",
+    "img": {},
+    "question": "In order to develop our Technology, we must",
+    "options": [
+      { "text": "Import our raw materials", "explanation": "" },
+      { "text": "Process our raw materials", "explanation": "" },
+      { "text": "Shape our raw materials", "explanation": "" },
+      { "text": "Export our raw materials", "explanation": "" }
+    ]
+  },
+  {
+    "id": 31,
+    "instruction": "The following are safety guidelines for cyclists except",
+    "Comprehension": "",
+    "img": {},
+    "question": "The following are safety guidelines for cyclists except",
+    "options": [
+      { "text": "Having good brakes", "explanation": "" },
+      { "text": "Avoiding heavy traffic", "explanation": "" },
+      { "text": "Riding against the traffic", "explanation": "" },
+      { "text": "Obeying traffic signs", "explanation": "" }
+    ]
+  },
+  {
+    "id": 32,
+    "instruction": "The following are workshop safety rules except ...",
+    "Comprehension": "",
+    "img": {},
+    "question": "The following are workshop safety rules except",
+    "options": [
+      { "text": "Wearing overalls", "explanation": "" },
+      { "text": "Operating equipment with permission", "explanation": "" },
+      { "text": "Wearing hand gloves", "explanation": "" },
+      { "text": "Wearing slippers", "explanation": "" }
+    ]
+  },
+  {
+    "id": 33,
+    "instruction": "Which of the following metals can be attracted by a magnet",
+    "Comprehension": "",
+    "img": {},
+    "question": "Which of the following metals can be attracted by a magnet",
+    "options": [
+      { "text": "Steel", "explanation": "" },
+      { "text": "Aluminum", "explanation": "" },
+      { "text": "Zinc", "explanation": "" },
+      { "text": "Brass", "explanation": "" }
+    ]
+  },
+  {
+    "id": 34,
+    "instruction": "Which of the following pencils is not ideal for technical drawing",
+    "Comprehension": "",
+    "img": {},
+    "question": "Which of the following pencils is not ideal for technical drawing",
+    "options": [
+      { "text": "2H", "explanation": "" },
+      { "text": "2B", "explanation": "" },
+      { "text": "H", "explanation": "" },
+      { "text": "HB", "explanation": "" }
+    ]
+  },
+  {
+    "id": 35,
+    "instruction": "Site preparation includes the following except",
+    "Comprehension": "",
+    "img": {},
+    "question": "Site preparation includes the following except",
+    "options": [
+      { "text": "Cutting grass", "explanation": "" },
+      { "text": "Moulding blocks", "explanation": "" },
+      { "text": "Uprooting trees", "explanation": "" },
+      { "text": "Removal of topsoil", "explanation": "" }
+    ]
+  },
+  {
+    "id": 36,
+    "instruction": "The act of identifying and eliminating problems or faults in a machine is known as ...",
+    "Comprehension": "",
+    "img": {},
+    "question": "The act of identifying and eliminating problems or faults in a machine is known as",
+    "options": [
+      { "text": "Troubleshooting", "explanation": "" },
+      { "text": "Maintenance", "explanation": "" },
+      { "text": "Fault detection", "explanation": "" },
+      { "text": "Repairing", "explanation": "" }
+    ]
+  },
+  {
+    "id": 37,
+    "instruction": "The following are woodwork joints except ...",
+    "Comprehension": "",
+    "img": {},
+    "question": "The following are woodwork joints except",
+    "options": [
+      { "text": "Bridle joint", "explanation": "" },
+      { "text": "Halving joint", "explanation": "" },
+      { "text": "Dovetail joint", "explanation": "" },
+      { "text": "Hipped joint", "explanation": "" }
+    ]
+  },
+  {
+    "id": 38,
+    "instruction": "The formula for calculating electric power in an electric circuit is ...",
+    "Comprehension": "",
+    "img": {},
+    "question": "The formula for calculating electric power in an electric circuit is",
+    "options": [
+      { "text": "P=V/R", "explanation": "" },
+      { "text": "P=VI", "explanation": "" },
+      { "text": "P=V/I", "explanation": "" },
+      { "text": "P=IR", "explanation": "" }
+    ]
+  },
+  {
+    "id": 39,
+    "instruction": "A blueprint shows the following",
+    "Comprehension": "",
+    "img": {},
+    "question": "A blueprint shows the following",
+    "options": [
+      { "text": "Plan, elevation, and cross-section", "explanation": "" },
+      { "text": "Plan and elevation only", "explanation": "" },
+      { "text": "Elevation and cross-section", "explanation": "" },
+      { "text": "Plan only", "explanation": "" }
+    ]
+  },
+  {
+    "id": 40,
+    "instruction": "Which of the following is not a metalwork making out tool?",
+    "Comprehension": "",
+    "img": {},
+    "question": "Which of the following is not a metalwork making out tool?",
+    "options": [
+      { "text": "Inside caliper", "explanation": "" },
+      { "text": "Scribe", "explanation": "" },
+      { "text": "Divider", "explanation": "" },
+      { "text": "Dot punch", "explanation": "" }
+    ]
+  },
+  {
+    "id": 41,
+    "instruction": "Which of these professions is concerned with the design and maintenance of aircraft?",
+    "Comprehension": "",
+    "img": {},
+    "question": "Which of these professions is concerned with the design and maintenance of aircraft?",
+    "options": [
+      { "text": "Computer engineer", "explanation": "" },
+      { "text": "Aeronautical engineer", "explanation": "" },
+      { "text": "Electronic engineer", "explanation": "" },
+      { "text": "Electrical engineer", "explanation": "" }
+    ]
+  },
+  {
+    "id": 42,
+    "instruction": "A material put over an opening in a wall to allow the continuation of the wall above the opening is known as ...",
+    "Comprehension": "",
+    "img": {},
+    "question": "A material put over an opening in a wall to allow the continuation of the wall above the opening is known as",
+    "options": [
+      { "text": "Pillar", "explanation": "" },
+      { "text": "Framework", "explanation": "" },
+      { "text": "Bonding", "explanation": "" },
+      { "text": "Lintel", "explanation": "" }
+    ]
+  },
+  {
+    "id": 43,
+    "instruction": "Thermionic emission is the process of emitting electrons by the use of ...",
+    "Comprehension": "",
+    "img": {},
+    "question": "Thermionic emission is the process of emitting electrons by the use of",
+    "options": [
+      { "text": "Light energy", "explanation": "" },
+      { "text": "Heat energy", "explanation": "" },
+      { "text": "Kinetic energy", "explanation": "" },
+      { "text": "Magnetic energy", "explanation": "" }
+    ]
+  },
+  {
+    "id": 44,
+    "instruction": "Which of these devices is used for transmitting mechanical power?",
+    "Comprehension": "",
+    "img": {},
+    "question": "Which of these devices is used for transmitting mechanical power?",
+    "options": [
+      { "text": "Pulley", "explanation": "" },
+      { "text": "Gear", "explanation": "" },
+      { "text": "Clutch", "explanation": "" },
+      { "text": "Belt", "explanation": "" }
+    ]
+  },
+  {
+    "id": 45,
+    "instruction": "Plastics are used for handling cooking pots because they ...",
+    "Comprehension": "",
+    "img": {},
+    "question": "Plastics are used for handling cooking pots because they",
+    "options": [
+      { "text": "Do not expand when heated", "explanation": "" },
+      { "text": "Are light in weight", "explanation": "" },
+      { "text": "Are very strong", "explanation": "" },
+      { "text": "Are poor conductors of heat", "explanation": "" }
+    ]
+  },
+  {
+    "id": 46,
+    "instruction": "The type of hammer used by blacksmiths is called",
+    "Comprehension": "",
+    "img": {},
+    "question": "The type of hammer used by blacksmiths is called",
+    "options": [
+      { "text": "Ball peen hammer", "explanation": "" },
+      { "text": "Blocking head hammer", "explanation": "" },
+      { "text": "Cross peen hammer", "explanation": "" },
+      { "text": "Claw hammer", "explanation": "" }
+    ]
+  },
+  {
+    "id": 47,
+    "instruction": "A regular polygon with seven sides is called ...",
+    "Comprehension": "",
+    "img": {},
+    "question": "A regular polygon with seven sides is called",
+    "options": [
+      { "text": "Pentagon", "explanation": "" },
+      { "text": "Hexagon", "explanation": "" },
+      { "text": "Nonagon", "explanation": "" },
+      { "text": "Heptagon", "explanation": "" }
+    ]
+  },
+  {
+    "id": 48,
+    "instruction": "The type of drawing that shows the plan, front, and side elevation is known as ...",
+    "Comprehension": "",
+    "img": {},
+    "question": "The type of drawing that shows the plan, front, and side elevation is known as",
+    "options": [
+      { "text": "Pictorial", "explanation": "" },
+      { "text": "Orthographic", "explanation": "" },
+      { "text": "Isometric", "explanation": "" },
+      { "text": "Perspective", "explanation": "" }
+    ]
+  }, 
+  {
+    "id": 49,
+    "instruction": "Which of the following is not a woodwork machine?",
+    "Comprehension": "",
+    "img": {},
+    "question": "Which of the following is not a woodwork machine?",
+    "options": [
+      { "text": "Band saw", "explanation": "" },
+      { "text": "Circular saw", "explanation": "" },
+      { "text": "Centre lathe", "explanation": "" },
+      { "text": "Surface planer", "explanation": "" }
+    ]
+  },
+  {
+    "id": 50,
+    "instruction": "Which of the following metals is used for making electric cable?",
+    "Comprehension": "",
+    "img": {},
+    "question": "Which of the following metals is used for making electric cable?",
+    "options": [
+      { "text": "Lead", "explanation": "" },
+      { "text": "Silver", "explanation": "" },
+      { "text": "Copper", "explanation": "" },
+      { "text": "Steel", "explanation": "" }
+    ]
+  }
+]
+
+
+
+
+
+
+
+
+
+Copy code
+[
+  {
+    "id": 51,
+    "instruction": "The components of the first and second generation computer are",
+    "Comprehension": "",
+    "img": {},
+    "question": "The components of the first and second generation computer are",
+    "options": [
+      { "text": "I and IV", "explanation": "" },
+      { "text": "II and III", "explanation": "" },
+      { "text": "IV and II", "explanation": "" },
+      { "text": "I and IV", "explanation": "" }
+    ]
+  },
+  {
+    "id": 52,
+    "instruction": "The keyboard is normally connected to the",
+    "Comprehension": "",
+    "img": {},
+    "question": "The keyboard is normally connected to the",
+    "options": [
+      { "text": "Main socket", "explanation": "" },
+      { "text": "CPU/System unit", "explanation": "" },
+      { "text": "Monitor", "explanation": "" },
+      { "text": "Mouse", "explanation": "" }
+    ]
+  },
+  {
+    "id": 53,
+    "instruction": "Which part of the CPU fetches instructions from main memory, decodes it, and executes it",
+    "Comprehension": "",
+    "img": {},
+    "question": "Which part of the CPU fetches instructions from main memory, decodes it, and executes it",
+    "options": [
+      { "text": "Control unit", "explanation": "" },
+      { "text": "ALU", "explanation": "" },
+      { "text": "DLU", "explanation": "" },
+      { "text": "D and C", "explanation": "" }
+    ]
+  },
+  {
+    "id": 54,
+    "instruction": "Which of these does not belong to the group",
+    "Comprehension": "",
+    "img": {},
+    "question": "Which of these does not belong to the group",
+    "options": [
+      { "text": "Motherboard", "explanation": "" },
+      { "text": "Cooling fan", "explanation": "" },
+      { "text": "Internal memory", "explanation": "" },
+      { "text": "Power button", "explanation": "" }
+    ]
+  },
+  {
+    "id": 55,
+    "instruction": "The most important software on the computer system is ...",
+    "Comprehension": "",
+    "img": {},
+    "question": "The most important software on the computer system is",
+    "options": [
+      { "text": "CorelDraw", "explanation": "" },
+      { "text": "Operating system", "explanation": "" },
+      { "text": "Word processor", "explanation": "" },
+      { "text": "Microsoft Excel", "explanation": "" }
+    ]
+  },
+  {
+    "id": 56,
+    "instruction": "An output statement in basic language is",
+    "Comprehension": "",
+    "img": {},
+    "question": "An output statement in basic language is",
+    "options": [
+      { "text": "LeET", "explanation": "" },
+      { "text": "Print", "explanation": "" },
+      { "text": "Input", "explanation": "" },
+      { "text": "Read", "explanation": "" }
+    ]
+  },
+  {
+    "id": 57,
+    "instruction": "Which of the following is not a type of ROM?",
+    "Comprehension": "",
+    "img": {},
+    "question": "Which of the following is not a type of ROM?",
+    "options": [
+      { "text": "EEPROM", "explanation": "" },
+      { "text": "PROM", "explanation": "" },
+      { "text": "EPRON", "explanation": "" },
+      { "text": "DROM", "explanation": "" }
+    ]
+  },
+  {
+    "id": 58,
+    "instruction": "One kilobyte is equivalent to",
+    "Comprehension": "",
+    "img": {},
+    "question": "One kilobyte is equivalent to",
+    "options": [
+      { "text": "210", "explanation": "" },
+      { "text": "220", "explanation": "" },
+      { "text": "230", "explanation": "" },
+      { "text": "240", "explanation": "" }
+    ]
+  },
+  {
+    "id": 59,
+    "instruction": "A diagrammatic representation of the logical steps in programming is",
+    "Comprehension": "",
+    "img": {},
+    "question": "A diagrammatic representation of the logical steps in programming is",
+    "options": [
+      { "text": "Bar chart", "explanation": "" },
+      { "text": "Flow chart", "explanation": "" },
+      { "text": "Pie chart", "explanation": "" },
+      { "text": "Column chart", "explanation": "" }
+    ]
+  },
+  {
+    "id": 60,
+    "instruction": "The binary representation of 1001102 is equivalent to",
+    "Comprehension": "",
+    "img": {},
+    "question": "The binary representation of 1001102 is equivalent to",
+    "options": [
+      { "text": "768", "explanation": "" },
+      { "text": "4616", "explanation": "" },
+      { "text": "4610", "explanation": "" },
+      { "text": "468", "explanation": "" }
+    ]
+  },
+  {
+    "id": 61,
+    "instruction": "Which of the following is not for online shopping",
+    "Comprehension": "",
+    "img": {},
+    "question": "Which of the following is not for online shopping",
+    "options": [
+      { "text": "Credit card", "explanation": "" },
+      { "text": "Internet", "explanation": "" },
+      { "text": "Computer and Mobile device", "explanation": "" },
+      { "text": "SIM card", "explanation": "" }
+    ]
+  },
+  {
+    "id": 62,
+    "instruction": "In basic programming, the REM statement shows the",
+    "Comprehension": "",
+    "img": {},
+    "question": "In basic programming, the REM statement shows the",
+    "options": [
+      { "text": "Input", "explanation": "" },
+      { "text": "Output", "explanation": "" },
+      { "text": "Comment", "explanation": "" },
+      { "text": "Decision", "explanation": "" }
+    ]
+  },
+  {
+    "id": 63,
+    "instruction": "What will be an output of an AND gate if there are two inputs, 1 and 0",
+    "Comprehension": "",
+    "img": {},
+    "question": "What will be an output of an AND gate if there are two inputs, 1 and 0",
+    "options": [
+      { "text": "01", "explanation": "" },
+      { "text": "0", "explanation": "" },
+      { "text": "1", "explanation": "" },
+      { "text": "2", "explanation": "" }
+    ]
+  },
+  {
+    "id": 64,
+    "instruction": "The process of sending and receiving messages electronically through a computer or telephone at a fast speed is called",
+    "Comprehension": "",
+    "img": {},
+    "question": "The process of sending and receiving messages electronically through a computer or telephone at a fast speed is called",
+    "options": [
+      { "text": "Electronic modulator mail", "explanation": "" },
+      { "text": "Internet telephone mail", "explanation": "" },
+      { "text": "Email", "explanation": "" },
+      { "text": "Modern postal mail", "explanation": "" }
+    ]
+  },
+  {
+    "id": 65,
+    "instruction": "Klorms, Trojan horse, and spyware are examples of",
+    "Comprehension": "",
+    "img": {},
+    "question": "Klorms, Trojan horse, and spyware are examples of",
+    "options": [
+      { "text": "Antivirus", "explanation": "" },
+      { "text": "Databases package", "explanation": "" },
+      { "text": "Virus", "explanation": "" },
+      { "text": "Data infection", "explanation": "" }
+    ]
+  },
+  {
+    "id": 66,
+    "instruction": "What does it mean to double click the mouse",
+    "Comprehension": "",
+    "img": {},
+    "question": "What does it mean to double click the mouse",
+    "options": [
+      { "text": "Pressing the left button of the mouse twice at an interval", "explanation": "" },
+      { "text": "Pressing the right button of the mouse twice at an interval", "explanation": "" },
+      { "text": "Pressing the right button of the mouse in quick succession", "explanation": "" },
+      { "text": "Pressing the left button of the mouse in quick succession", "explanation": "" }
+    ]
+  },
+  {
+    "id": 67,
+    "instruction": "Which of these is not a use of spreadsheet package?",
+    "Comprehension": "",
+    "img": {},
+    "question": "Which of these is not a use of spreadsheet package?",
+    "options": [
+      { "text": "Budgeting", "explanation": "" },
+      { "text": "Payroll", "explanation": "" },
+      { "text": "Letter writing", "explanation": "" },
+      { "text": "Business annual report", "explanation": "" }
+    ]
+  },
+  {
+    "id": 68,
+    "instruction": "Which of the following results describes an OR gate in a logic circuit",
+    "Comprehension": "",
+    "img": {},
+    "question": "Which of the following results describes an OR gate in a logic circuit",
+    "options": [
+      { "text": "HI = 0", "explanation": "" },
+      { "text": "0 + 0 = 1", "explanation": "" },
+      { "text": "0 + 1 = 0", "explanation": "" },
+      { "text": "1 + 0 = 1", "explanation": "" }
+    ]
+  },
+  {
+    "id": 69,
+    "instruction": "The interconnection of many computers that can share information at almost the same time from any part of the world is known as",
+    "Comprehension": "",
+    "img": {},
+    "question": "The interconnection of many computers that can share information at almost the same time from any part of the world is known as",
+    "options": [
+      { "text": "Internet", "explanation": "" },
+      { "text": "Google", "explanation": "" },
+      { "text": "Modem", "explanation": "" },
+      { "text": "Email", "explanation": "" }
+    ]
+  },
+  {
+    "id": 70,
+    "instruction": "In a computer system, “CPU” means",
+    "Comprehension": "",
+    "img": {},
+    "question": "In a computer system, “CPU” means",
+    "options": [
+      { "text": "Control processing unit", "explanation": "" },
+      { "text": "Central power unit", "explanation": "" },
+      { "text": "Computer product unit", "explanation": "" },
+      { "text": "Central processing unit", "explanation": "" }
+    ]
+  },
+  {
+    "id": 71,
+    "instruction": "The computer games with academic challenges are referred to as",
+    "Comprehension": "",
+    "img": {},
+    "question": "The computer games with academic challenges are referred to as",
+    "options": [
+      { "text": "Relaxation", "explanation": "" },
+      { "text": "Educational", "explanation": "" },
+      { "text": "Exploration", "explanation": "" },
+      { "text": "Supernatural", "explanation": "" }
+    ]
+  },
+  {
+    "id": 72,
+    "instruction": "On the spreadsheet, the active cell is indicated by a",
+    "Comprehension": "",
+    "img": {},
+    "question": "On the spreadsheet, the active cell is indicated by a",
+    "options": [
+      { "text": "Desktop border", "explanation": "" },
+      { "text": "Dark button border", "explanation": "" },
+      { "text": "Dark left and right border", "explanation": "" },
+      { "text": "Dark all border", "explanation": "" }
+    ]
+  },
+  {
+    "id": 73,
+    "instruction": "The following are chatting application software except",
+    "Comprehension": "",
+    "img": {},
+    "question": "The following are chatting application software except",
+    "options": [
+      { "text": "Twitter", "explanation": "" },
+      { "text": "WhatsApp", "explanation": "" },
+      { "text": "YouTube", "explanation": "" },
+      { "text": "2go", "explanation": "" }
+    ]
+  }
+,{
+    "id": 74,
+    "instruction": "Which of the following is not an electromechanical counting device...",
+    "Comprehension": "",
+    "img": {},
+    "question": "Which of the following is not an electromechanical counting device...",
+    "options": [
+      { "text": "Joseph Jacquard", "explanation": "" },
+      { "text": "Blaise Pascal machine", "explanation": "" },
+      { "text": "Slide rule", "explanation": "" },
+      { "text": "John Napier bone", "explanation": "" }
+    ]
+  },
+  {
+    "id": 75,
+    "instruction": "Which of the following will select the entire cell in a spreadsheet...",
+    "Comprehension": "",
+    "img": {},
+    "question": "Which of the following will select the entire cell in a spreadsheet...",
+    "options": [
+      { "text": "Ctrl + A", "explanation": "" },
+      { "text": "F1 + A", "explanation": "" },
+      { "text": "Shift + A", "explanation": "" },
+      { "text": "ALT + A", "explanation": "" }
+    ]
+  }
+
+
+
+PHYSICAL AND HEALTH EDUCATION
+  [
+  {
+    "id": 76,
+    "instruction": "Which of the following equipment is not used in a hockey game...",
+    "Comprehension": "",
+    "img": {},
+    "question": "Which of the following equipment is not used in a hockey game...",
+    "options": [
+      { "text": "Shin guard", "explanation": "" },
+      { "text": "Kicker", "explanation": "" },
+      { "text": "Racket", "explanation": "" },
+      { "text": "Face mask", "explanation": "" }
+    ]
+  },
+  {
+    "id": 77,
+    "instruction": "The following are skills in basketball except...",
+    "Comprehension": "",
+    "img": {},
+    "question": "The following are skills in basketball except...",
+    "options": [
+      { "text": "Shooting", "explanation": "" },
+      { "text": "Dribbling", "explanation": "" },
+      { "text": "Passing", "explanation": "" },
+      { "text": "Smashing", "explanation": "" }
+    ]
+  },
+  {
+    "id": 78,
+    "instruction": "The ability to move easily at the joint is known as...",
+    "Comprehension": "",
+    "img": {},
+    "question": "The ability to move easily at the joint is known as...",
+    "options": [
+      { "text": "Power", "explanation": "" },
+      { "text": "Speed", "explanation": "" },
+      { "text": "Flexibility", "explanation": "" },
+      { "text": "Agility", "explanation": "" }
+    ]
+  },
+  {
+    "id": 79,
+    "instruction": "Human trafficking is the recruitment, transportation, harboring of people for the purpose of slavery, forced labor, and...",
+    "Comprehension": "",
+    "img": {},
+    "question": "Human trafficking is the recruitment, transportation, harboring of people for the purpose of slavery, forced labor, and...",
+    "options": [
+      { "text": "Servitude", "explanation": "" },
+      { "text": "Beggars", "explanation": "" },
+      { "text": "Selfish interest", "explanation": "" },
+      { "text": "Slavery", "explanation": "" }
+    ]
+  },
+  {
+    "id": 80,
+    "instruction": "Which of these is not a basic swimming stroke...",
+    "Comprehension": "",
+    "img": {},
+    "question": "Which of these is not a basic swimming stroke...",
+    "options": [
+      { "text": "Front crawl", "explanation": "" },
+      { "text": "Arm stroke", "explanation": "" },
+      { "text": "Breast stroke", "explanation": "" },
+      { "text": "Backstroke", "explanation": "" }
+    ]
+  },
+  {
+    "id": 81,
+    "instruction": "Physical fitness exercise that gives abdominal strength and endurance in gymnastics is...",
+    "Comprehension": "",
+    "img": {},
+    "question": "Physical fitness exercise that gives abdominal strength and endurance in gymnastics is...",
+    "options": [
+      { "text": "Cat wheel", "explanation": "" },
+      { "text": "Headstand", "explanation": "" },
+      { "text": "Handstring", "explanation": "" },
+      { "text": "Sit-ups", "explanation": "" }
+    ]
+  },
+  {
+    "id": 82,
+    "instruction": "Sewage primarily means...",
+    "Comprehension": "",
+    "img": {},
+    "question": "Sewage primarily means...",
+    "options": [
+      { "text": "Liquid waste", "explanation": "" },
+      { "text": "Soluble waste", "explanation": "" },
+      { "text": "Solid waste", "explanation": "" },
+      { "text": "Gaseous waste", "explanation": "" }
+    ]
+  },
+  {
+    "id": 83,
+    "instruction": "The situation where two or more drugs taken together or in close succession react to give a greater effect is known as...",
+    "Comprehension": "",
+    "img": {},
+    "question": "The situation where two or more drugs taken together or in close succession react to give a greater effect is known as...",
+    "options": [
+      { "text": "Habituation", "explanation": "" },
+      { "text": "Drug abuse", "explanation": "" },
+      { "text": "Synergism", "explanation": "" },
+      { "text": "Addiction", "explanation": "" }
+    ]
+  },
+  {
+    "id": 84,
+    "instruction": "Which of the taekwondo belts signifies innocence...",
+    "Comprehension": "",
+    "img": {},
+    "question": "Which of the taekwondo belts signifies innocence...",
+    "options": [
+      { "text": "Black", "explanation": "" },
+      { "text": "Red", "explanation": "" },
+      { "text": "White", "explanation": "" },
+      { "text": "Yellow", "explanation": "" }
+    ]
+  },
+  {
+    "id": 85,
+    "instruction": "Which of these races is started by a standing start...",
+    "Comprehension": "",
+    "img": {},
+    "question": "Which of these races is started by a standing start...",
+    "options": [
+      { "text": "100m", "explanation": "" },
+      { "text": "200m", "explanation": "" },
+      { "text": "400m", "explanation": "" },
+      { "text": "800m", "explanation": "" }
+    ]
+  },
+  {
+    "id": 86,
+    "instruction": "The process of growing old and reaching the end of useful life is called...",
+    "Comprehension": "",
+    "img": {},
+    "question": "The process of growing old and reaching the end of useful life is called...",
+    "options": [
+      { "text": "Death", "explanation": "" },
+      { "text": "Ageing", "explanation": "" },
+      { "text": "Birth", "explanation": "" },
+      { "text": "Dementia", "explanation": "" }
+    ]
+  },
+  {
+    "id": 87,
+    "instruction": "These are the techniques of javelin except...",
+    "Comprehension": "",
+    "img": {},
+    "question": "These are the techniques of javelin except...",
+    "options": [
+      { "text": "Landing", "explanation": "" },
+      { "text": "Approach run", "explanation": "" },
+      { "text": "Grip", "explanation": "" },
+      { "text": "Release", "explanation": "" }
+    ]
+  },
+  {
+    "id": 88,
+    "instruction": "The following are pioneers of gymnastics except...",
+    "Comprehension": "",
+    "img": {},
+    "question": "The following are pioneers of gymnastics except...",
+    "options": [
+      { "text": "Johan Basedow", "explanation": "" },
+      { "text": "Joan Calious", "explanation": "" },
+      { "text": "Johan Guts Muths", "explanation": "" },
+      { "text": "Fredrick Ludwig John", "explanation": "" }
+    ]
+  },
+  {
+    "id": 89,
+    "instruction": "Which of these is not a type of computer game...",
+    "Comprehension": "",
+    "img": {},
+    "question": "Which of these is not a type of computer game...",
+    "options": [
+      { "text": "Nature Pack", "explanation": "" },
+      { "text": "Scrabble", "explanation": "" },
+      { "text": "Beach Rally", "explanation": "" },
+      { "text": "Abula", "explanation": "" }
+    ]
+  },
+  {
+    "id": 90,
+    "instruction": "The period between conception and birth is...",
+    "Comprehension": "",
+    "img": {},
+    "question": "The period between conception and birth is...",
+    "options": [
+      { "text": "Gestation", "explanation": "" },
+      { "text": "Fertilization", "explanation": "" },
+      { "text": "Contraception", "explanation": "" },
+      { "text": "Ovulation", "explanation": "" }
+    ]
+  },
+  {
+    "id": 91,
+    "instruction": "The overall controller of athletics competition is the...",
+    "Comprehension": "",
+    "img": {},
+    "question": "The overall controller of athletics competition is the...",
+    "options": [
+      { "text": "Lap recorder", "explanation": "" },
+      { "text": "Announcers", "explanation": "" },
+      { "text": "Referee", "explanation": "" },
+      { "text": "Recall starter", "explanation": "" }
+    ]
+  },
+  {
+    "id": 92,
+    "instruction": "The purchase and consumption of medicine without the prescription of a qualified medical doctor is...",
+    "Comprehension": "",
+    "img": {},
+    "question": "The purchase and consumption of medicine without the prescription of a qualified medical doctor is...",
+    "options": [
+      { "text": "Drug abuse", "explanation": "" },
+      { "text": "Self-medication", "explanation": "" },
+      { "text": "Drug misuse", "explanation": "" },
+      { "text": "Self-habituation", "explanation": "" }
+    ]
+  },
+  {
+    "id": 93,
+    "instruction": "Karate do was developed in...",
+    "Comprehension": "",
+    "img": {},
+    "question": "Karate do was developed in...",
+    "options": [
+      { "text": "Okirika", "explanation": "" },
+      { "text": "Japan", "explanation": "" },
+      { "text": "China", "explanation": "" },
+      { "text": "Okinawa", "explanation": "" }
+    ]
+  },
+  {
+    "id": 94,
+    "instruction": "The second point in tennis count...",
+    "Comprehension": "",
+    "img": {},
+    "question": "The second point in tennis count...",
+    "options": [
+      { "text": "10", "explanation": "" },
+      { "text": "15", "explanation": "" },
+      { "text": "20", "explanation": "" },
+      { "text": "30", "explanation": "" }
+    ]
+  },
+  {
+    "id": 95,
+    "instruction": "The aspect that applies specific marketing principles to sell sport products is called...",
+    "Comprehension": "",
+    "img": {},
+    "question": "The aspect that applies specific marketing principles to sell sport products is called...",
+    "options": [
+      { "text": "Sport marketing", "explanation": "" },
+      { "text": "Sport psychology", "explanation": "" },
+      { "text": "Sport science", "explanation": "" },
+      { "text": "Sport management", "explanation": "" }
+    ]
+  }
+]
+
+
