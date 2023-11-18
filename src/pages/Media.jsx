@@ -56,7 +56,6 @@ function Media() {
           })
         )}
         <h1 className='text-white text-[3vh] text-center underline'>{errs}</h1>
-      }
     </div>
   )
 }
