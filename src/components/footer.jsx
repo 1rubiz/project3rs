@@ -1,6 +1,7 @@
 import React, {useState} from 'react'
 import { FaFacebook, FaGlobe, FaAngleDown, FaInstagram, FaTwitter, FaWhatsapp, FaLinkedin, FaShare } from 'react-icons/fa'
 import { motion } from 'framer-motion';
+import { Link } from 'react-router-dom'
 
 function Footer() {
   const [display, setDisplay] = useState(false);
@@ -78,7 +79,7 @@ function Footer() {
       exit={{ opacity: 0 }}
       transition={{duration: 2}}
       >
-        <FaWhatsapp className='text-[green]' size={35}/>
+      <Link to='https://wa.link/i802il'> <FaWhatsapp className='text-[green]' size={35}/></Link>
       </motion.div>
      
       </>
