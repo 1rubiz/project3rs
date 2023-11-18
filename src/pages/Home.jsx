@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import img from '../assets/img.jpg';
+import earth from '/earth-icon.svg'
 import {motion} from 'framer-motion'
 function Home() {
   return (
@@ -17,7 +18,7 @@ function Home() {
           initial={{ opacity: 0, x: -100 }}
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 2 }}
-        className='text-[40px] font-bold font-serif flex justify-center items-center'>PROJECT  <p className='text-[70px] pl-4'>3Rs</p></motion.div>
+        className='text-[40px] font-bold font-serif flex justify-center items-center'>PR<img src={earth} className='h-[7vh] w-[7vh]'/> JECT  <p className='text-[70px] pl-4'>3Rs</p></motion.div>
         <motion.div 
           initial={{ opacity: 0, x: 100 }}
           animate={{ opacity: 1, x: 0 }}
